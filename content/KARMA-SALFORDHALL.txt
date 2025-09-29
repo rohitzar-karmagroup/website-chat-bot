@@ -1,0 +1,288 @@
+﻿KARMA SALFORD HALL
+
+
+Meta Page Title:
+Karma Salford Hall, The Vale of Evesham, UK
+
+
+
+
+Meta Description:
+An historic country retreat dating back 700 years, situated in the heart of the English Cotswolds, one of the prettiest rural regions anywhere in the British Isles.
+
+
+Banner Headline (3/5 words):
+HL: Karma Salford Hall
+
+
+The Vale of Evesham, UK 
+
+
+Web Intro (max 120 words):
+Welcome to Karma Salford Hall, a 700-year-old historic country retreat in the picturesque Vale of Evesham, near the English Cotswolds. Once owned by King Henry VIII, the Tudor charm of this property is complemented by modern comforts, including 27 charming bedrooms, a restaurant, library, games room, and bar. This Evesham hotel, located near Stratford Upon Avon and Leamington Spa, offers an authentic English experience steeped in history and beauty.
+Keywords: Karma Salford Hall, historic country, Vale of Evesham, bar, Stratford Upon Avon, Leamington Spa, Evesham hotel 
+
+
+App Intro (max 50 words):
+Welcome to Karma Salford Hall, a 700-year-old country retreat in the Vale of Evesham, near the Cotswolds. Once owned by King Henry VIII, this Tudor property offers 27 charming rooms, a restaurant, library, games room, and bar. This spa hotel, Evesham, located near Stratford Upon Avon and Leamington Spa, offers a quintessential English experience.
+Keywords:  Karma Salford Hall, Vale of Evesham, bar, Stratford Upon Avon, Leamington Spa,  Spa hotel Evesham 
+
+
+
+
+
+
+HL: Accommodation
+Karma Salford Hall features 27 rooms, decorated in the English Arts & Crafts style inspired by William Morris. The rooms include four-poster, double, and twin beds, with oak furniture and vibrant upholstery. All rooms are en-suite, and some are pet-friendly, offering a charming and comfortable stay.
+Keywords: Karma Salford Hall,  en-suite, pet-friendly
+
+
+
+
+
+
+Room Category 01 max 50 words :
+SHL: Main Building Superior 
+Unit Code
+	Adults
+	Children (under 10)
+	4_SUP_MAIN
+	2
+	1
+	The Superior Rooms at Karma Salford Hall are more spacious than the Double Rooms, featuring classic double beds with premium mattresses and soft cotton linens, some with four-poster beds. Each room offers an en-suite bathroom with a bath and shower, with windows providing views of the manicured gardens.
+Amenities:
+* Double beds
+* Four-poster bed
+* Soft cotton linens
+* En-suite bathroom
+* Premium mattresses
+* Air-conditioned 
+Keywords: double beds, premium mattresses, en-suite, Karma Salford Hall
+
+
+
+
+Room Category 02 max 50 words :
+SHL: Main Building Double
+Unit Code
+	Adults
+	Children (under 10)
+	3_DBL_MAIN
+	2
+	1
+	The Double Rooms at Karma Salford Hall feature traditional double beds with premium mattresses and soft, high-quality cotton linens. En-suite bathrooms offer contemporary baths and showers with modern fittings. Large windows provide views of the expansive grounds, and twin beds are available upon request.
+Amenities:
+* Double beds
+* Four-poster bed
+* Soft cotton linens
+* En-suite bathroom
+* Premium mattresses
+* Air-conditioned 
+Keywords: double beds, premium mattresses, en-suite, Karma Salford Hall
+
+
+
+
+Room Category 03 max 50 words :
+SHL: Tudor Court Double
+Unit Code
+	Adults
+	Children (under 10)
+	1_DBL_TC
+	2
+	1
+	Nestled in Tudor Court at Karma Salford Hall, these charming rooms offer comfortable beds and views of the gardens leading to the main house. En-suite bathrooms feature modern fittings, and most rooms provide direct garden access for your four-legged friends. Twin beds are available upon request.
+Amenities:
+* Double beds
+* Twin beds (on request)
+* En-suite bathroom
+* Premium mattresses
+* Air-conditioned 
+Keywords: en-suite, Karma Salford Hall, Twin beds
+
+
+
+
+Room Category 04 max 50 words :
+SHL: Tudor Court Superior 
+Unit Code
+	Adults
+	Children (under 10)
+	2_SUP_TC
+	2
+	1
+	The Superior Rooms at Karma Salford Hall are more spacious than the Double Rooms, featuring classically styled double beds with premium mattresses and soft cotton bed linen, some with four-poster beds. These rooms also have en-suite bathrooms with baths and showers, offering views of the beautifully manicured gardens.
+Amenities:
+* Double beds
+* Four-poster bed
+* Soft cotton linens
+* En-suite bathroom
+* Premium mattresses
+* Air-conditioned 
+Keywords: double beds, premium mattresses, en-suite, Karma Salford Hall
+
+HL: Cuisine 
+The main dining room at Karma Salford Hall, set in an opulent panelled hall, offers a selection of local and European dishes, focusing on farm-to-table ingredients. The Bar provides a cozy pub atmosphere with sofas and a fireplace. Room service and packed lunches for excursions are also available.
+Keywords: Karma Salford Hall, European dishes, pub
+(max 50 words) :
+Category 01 max 50 words :
+SHL: Tempest Restaurant 
+Karma Salford Hall’s Tempest Restaurant, set in a period-panelled hall with chandeliers, offers expertly prepared English and European dishes, alongside international inspirations from Karma’s resorts. Awarded Best Hotel Restaurant – Midlands at the Food Awards England 2022, the restaurant serves breakfast, lunch, dinner, and afternoon tea.
+- A La Carte Menu
+- Breakfast Menu
+- Drinks Menu
+- Wine Menu
+- Book a Table
+Keywords: Karma Salford Hall, European dishes, Chandeliers
+
+
+
+
+(max 50 words) :
+Category 02 max 50 words :
+SHL: Bar 
+Karma Salford Hall’s residential bar offers a classic English pub atmosphere with an oak bar, leather sofas, and a cozy fireplace. Enjoy traditional ales, a selection of wines from the cellar, as well as cocktails and classic mixer drinks in this inviting setting.
+- Pub Summer Menu
+Keywords: Karma Salford Hall, bar, leather sofas, fireplace, traditional ales, wines 
+
+
+
+
+
+
+HL: Facilities 
+Karma Salford Hall, spa hotel in Evesham, offers excellent facilities for couples, families, and business travelers. Some accommodations are dog-friendly. Please note: the hotel is a listed building with uneven levels and stairs, and does not have an elevator.
+Keywords: Karma Salford Hall, dog- friendly, Spa hotel in Evesham
+
+
+Category 01 max 50 words :
+SHL: Karma Spa 
+The Karma Spa at Salford Hall offers a blend of traditional and modern Asian-inspired therapies. Our skilled therapist provides treatments like the Sea Salt Detox ritual, aromatherapy massage, bespoke facials, and reflexology, ensuring you leave feeling completely relaxed and transformed.
+- Spa Menu
+
+
+Keywords: Karma, aromatherapy
+
+
+Category 02 max 50 words :
+SHL: Ultimate Library
+
+Curated by Ultimate Library, our collection features timeless classics, favourites, and local histories. Guests are invited to unwind, expand their knowledge, and enjoy some quiet time with a good book in our thoughtfully designed library.
+ 
+Keywords: classics
+
+
+
+
+Category 03 max 50 words :
+SHL: Dog friendly 
+
+Karma Salford Hall warmly welcomes V.I.Pets with dog bowls and blankets. Our pet-friendly hotel offers scenic countryside walks, and pets can dine with you in designated areas. Please note, a selection of rooms are 'pet-free' for those who prefer a pet-free environment.
+
+
+Keywords: karma Salford Hall, pet-friendly, countryside
+
+
+
+
+Category 04 max 50 words :
+SHL: Games Room  
+
+The games room at Karma Salford Hall features a 19th-century snooker table and can also be hired for meetings or events, offering a versatile space for both leisure and business activities.
+
+
+Keywords: Karma Salford Hall, 19th-century
+
+
+Category 05 max 50 words :
+SHL: Events 
+
+We host private functions such as birthdays, anniversaries, baby showers, and wakes, as well as corporate events, with the capacity to accommodate up to 100 guests.
+
+
+
+
+
+
+
+
+HL: Weddings
+
+
+Karma Salford Hall offers a picturesque setting for weddings with 27 bedrooms, a fine dining restaurant, bar, and games room. The venue features beautiful gardens and a permanent marquee for ceremonies, available with both midweek and weekend wedding packages. Ideal for intimate or larger gatherings, with tailored options.
+- Download Wedding Brochure 
+- More Details 
+
+
+Keywords: Karma Salford Hall, Bar
+
+
+
+
+
+
+HL: Events
+
+
+For event inquiries or to book a show-around, contact our events coordinator at events@karmasalfordhall.com . Karma Salford Hall offers versatile event spaces for large parties, cocktail masterclasses, conferences, wakes, private dining, and more, ensuring every occasion is memorable and tailored to your needs.
+
+
+- Download Events Brochure 
+- More Details 
+
+
+Keywords: Karma Salford Hall, Cocktail
+
+
+
+
+HL: Location 
+
+
+Karma Salford Hall
+Karma Salford Hall, 
+Abbot's Salford, Warwickshire, 
+WR11 8UT,
+U.K.
+
+
+
+
+
+
+Resort Direct Dial
++44 1386 871300
+Whatsapp
++44 7709 065 035
+
+
+
+
+Email
+reception@karmasalfordhall.com
+
+
+Karma Salford Hall is a treasure-trove of unique culture, history, and nature.
+- Book Now
+
+
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorise Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------

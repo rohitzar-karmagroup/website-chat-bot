@@ -472,43 +472,6 @@
       .message-text ul {
         margin: 6px 0 6px 10px;
       }
-
-      .menu-buttons {
-        display: flex;
-        justify-content: end;
-        gap: 12px;
-        margin: 12px 10px;
-      }
-
-      .menu-btn {
-        padding: 10px 18px;
-        border: none;
-        border-radius: 20px;
-        font-size: 14px;
-        cursor: pointer;
-        transition: all 0.2s ease;
-        font-weight: 500;
-      }
-
-      .ask-btn {
-        background-color: #f7f3e8;
-        color: #8b6f3d;
-      }
-
-      .ask-btn:hover {
-        background-color: #8b6f3d;
-        color: #f7f3e8;
-      }
-
-      .end-btn {
-        background-color: #8b6f3d;
-        color: #f7f3e8;
-      }
-
-      .end-btn:hover {
-        background-color: #f7f3e8;
-        color: #333;
-      }
     </style>
   </head>
 
@@ -558,8 +521,6 @@
       let currentResort = null;
       let currentStep = "resort";
       let activeFlow = null;
-      let idleTimer;
-      let waitingForUser = false;
 
       const OTHERS_LABEL = "Others";
       const OTHERS_LINK = "https://karmaclub.karmagroup.com/member/offers/";
@@ -767,45 +728,6 @@
         document.querySelector(".back-btn").style.display = "flex";
       }
 
-      const resortTextFiles = [
-        "content/KARMA-BAYON.txt",
-        "content/KARMA-BORGO-DI-COLLEOLI.txt",
-        "content/KARMA-CHAKRA.txt",
-        "content/KARMA-CHATEAU-DE-SAMARY.txt",
-        "content/KARMA-FUSHI.txt",
-        "content/KARMA-GOLDEN-CAMP.txt",
-        "content/KARMA-HAVELI.txt",
-        "content/KARMA-JIMBARAN.txt",
-        "content/KARMA-KANDARA.txt",
-        "content/KARMA-KARNAK.txt",
-        "content/KARMA-LA-HERRIZA.txt",
-        "content/KARMA-LAKE-OF-MENTEITH.txt",
-        "content/KARMA-LAKEWOOD.txt",
-        "content/KARMA-MARTAM-RETREAT.txt",
-        "content/KARMA-MINOAN.txt",
-        "content/KARMA-MUNNAR.txt",
-        "content/KARMA-PANALEE.txt",
-        "content/KARMA-REEF.txt",
-        "content/KARMA-RESIDENCE-NORMANDE.txt",
-        "content/KARMA-ROYAL-BOAT-LAGOON.txt",
-        "content/KARMA-ROYAL-CANDIDASA.txt",
-        "content/KARMA-ROYAL-HAATHI-MAHAL.txt",
-        "content/KARMA-ROYAL-JIMBARAN.txt",
-        "content/KARMA-ROYAL-MONTERIO.txt",
-        "content/KARMA-ROYAL-PALMS.txt",
-        "content/KARMA-ROYAL-SANUR.txt",
-        "content/KARMA-SALFORDHALL.txt",
-        "content/KARMA-SANCTUM-SOHO.txt",
-        "content/KARMA-SEVEN-LAKES.txt",
-        "content/KARMA-SITABANI.txt",
-        "content/KARMA-SONG-HOAI.txt",
-        "content/KARMA-SUNSHINE-VILLAGE.txt",
-        "content/KARMA-UTOPIA.txt",
-        "content/KARMA-VARUNA.txt",
-        "content/LE-PREVERGER.txt",
-        "content/PELIKANOS.txt",
-      ];
-
       function addBotElement(element) {
         const chatMessagesDiv = document.getElementById("chat-messages");
         if (!chatMessagesDiv) return;
@@ -937,156 +859,22 @@
         return await res.text();
       }
 
-      function showResortButtons(resort) {
-        const wrap = document.createElement("div");
-        wrap.className = "resorts-options";
-
-        if (resort.booking_link?.url) {
-          const btn = document.createElement("button");
-          btn.className = "resorts-option-btn";
-          btn.textContent = "Booking";
-          btn.onclick = () => {
-            addMessage(
-              "bot",
-              `<a href="${resort.booking_link.url}" target="_blank">Book at ${resort.name}</a>`
-            );
-          };
-          wrap.appendChild(btn);
-        }
-
-        if (resort.highlights) {
-          const btn = document.createElement("button");
-          btn.className = "resorts-option-btn";
-          btn.textContent = "Highlights";
-          btn.onclick = () => {
-            addMessage("bot", resort.highlights);
-          };
-          wrap.appendChild(btn);
-        }
-
-        if (resort.location) {
-          const btn = document.createElement("button");
-          btn.className = "resorts-option-btn";
-          btn.textContent = "Location";
-          btn.onclick = () => {
-            addMessage("bot", resort.location);
-          };
-          wrap.appendChild(btn);
-        }
-
-        wrap.appendChild(createMainMenuButton());
-
-        addBotElement(wrap);
-      }
-
-      async function loadAllResortsText() {
-        try {
-          const texts = await Promise.all(
-            resortTextFiles.map(async (file) => {
-              const res = await fetch(file);
-              if (!res.ok) {
-                console.warn("Failed to load:", file);
-                return "";
-              }
-              return await res.text();
-            })
-          );
-          return texts.join("\n\n");
-        } catch (err) {
-          console.error("Error loading text files:", err);
-          return "";
-        }
-      }
-
-      function resetIdleTimer() {
-        if (idleTimer) clearTimeout(idleTimer);
-
-        if (waitingForUser) {
-          idleTimer = setTimeout(showEndMenu, 15000);
-        }
-      }
-
-      function botFinishedReply() {
-        waitingForUser = true;
-        resetIdleTimer();
-      }
-
-      function showEndMenu() {
-        if (document.querySelector(".menu-buttons")) return;
-
-        const messageEl = addMessage(
-          "bot",
-          "Is there anything else we can assist you with today?"
-        );
-
-        setTimeout(() => {
-          const chatFooter = document.getElementById("chat-footer");
-          if (chatFooter) chatFooter.style.display = "none";
-
-          const menuDiv = document.createElement("div");
-          menuDiv.classList.add("menu-buttons");
-
-          const askBtn = document.createElement("button");
-          askBtn.classList.add("menu-btn", "ask-btn");
-          askBtn.innerText = "Yes";
-          askBtn.onclick = () => {
-            menuDiv.remove();
-            if (chatFooter) chatFooter.style.display = "block";
-            document.getElementById("chat-input").focus();
-            waitingForUser = true;
-            resetIdleTimer();
-          };
-
-          const endBtn = document.createElement("button");
-          endBtn.classList.add("menu-btn", "end-btn");
-          endBtn.innerText = "No";
-          endBtn.onclick = () => {
-            menuDiv.remove();
-            addMessage(
-              "bot",
-              "Thank you for chatting with Karma Concierge. Have a great day!"
-            );
-            setTimeout(() => {
-              resetFlow();
-              currentPage = "chat";
-              renderApp();
-              toggleChatFooter(false);
-            }, 2000);
-          };
-
-          menuDiv.appendChild(askBtn);
-          menuDiv.appendChild(endBtn);
-
-          if (messageEl && messageEl.parentNode) {
-            messageEl.parentNode.insertBefore(menuDiv, messageEl.nextSibling);
-          } else {
-            document.getElementById("chat-messages").appendChild(menuDiv);
-          }
-
-          menuDiv.scrollIntoView({ behavior: "smooth" });
-
-          waitingForUser = false;
-        }, 1500);
-      }
-
-      document.addEventListener("input", (e) => {
-        if (e.target.id === "chat-input") {
-          if (idleTimer) clearTimeout(idleTimer);
-        }
-      });
-
-      function resetIdleTimer() {
-        if (idleTimer) clearTimeout(idleTimer);
-
-        if (waitingForUser) {
-          idleTimer = setTimeout(showEndMenu, 15000);
-        }
-      }
-
       async function askGeminiDirect(question) {
         try {
           const jsonData = await loadResortsData();
-          const resortsText = await loadAllResortsText();
+          const resortsText = await loadResortsText();
+
+          const resortsList = jsonData.resorts
+            .map((r) => {
+              let linkPart = "";
+              if (r.resort_link?.url) {
+                linkPart = `(Official link: ${r.resort_link.url})`;
+              }
+              return `* ${r.name} — ${
+                r.booking_link?.Description || ""
+              } ${linkPart}`;
+            })
+            .join("\n");
 
           const response = await fetch(
             "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
@@ -1106,7 +894,8 @@
                         User asked: ${question}  
 
                         Here is a JSON list of official resorts and links.  
-                        Here is additional text info about resorts:  
+
+                         Here is additional text info about resorts:  
                         ${resortsText}  
 
                         ⚠️ IMPORTANT:
@@ -1121,12 +910,11 @@
 
                         ### Rules:
                         - Be concise, structured, and **confident**.  
-                        - Strictly limit output to **10 lines max**.  
-                        - Categories to use (if relevant):  
-                          - Availability info  
-                          - Contact options (mandatory if Concierge needed)  
-                          - Booking link  
-                          - Resort highlights`,
+                        - Categories to use:  
+                        - Availability info (if relevant)  
+                        - Contact options (mandatory if Concierge needed)  
+                        - Booking link (only if allowed)  
+                        - Resort highlights (only if allowed)`,
                       },
                     ],
                   },
@@ -1136,8 +924,6 @@
           );
 
           const data = await response.json();
-          console.log(data, "Gemini API response");
-
           let answer =
             data?.candidates?.[0]?.content?.parts?.[0]?.text ||
             "⚠️ For detailed assistance, please contact Karma Concierge.";
@@ -1148,102 +934,11 @@
             answer =
               "⚠️ For detailed assistance, please contact Karma Concierge.";
           }
-
           addMessage("bot", formatGeminiResponse(answer));
-          botFinishedReply();
-          const resort = findResortByName(question);
-          if (resort) {
-            currentResort = resort;
-            showResortButtons(resort);
-          }
-
-          resetIdleTimer();
         } catch (e) {
-          console.error("Error in askGeminiDirect:", e);
           addMessage("bot", "Sorry, there was an error connecting to the AI.");
         }
       }
-
-      // async function askGeminiDirect(question) {
-      //   try {
-      //     const jsonData = await loadResortsData();
-      //     // const resortsText = await loadResortsText();
-      //     const resortsText = await loadAllResortsText();
-      //     console.log(resortsText, "resortsText");
-
-      //     const response = await fetch(
-      // "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
-      // {
-      //   method: "POST",
-      //   headers: {
-      //     "Content-Type": "application/json",
-      //     "X-goog-api-key": "AIzaSyAlqt2rbbP6aNI5Hka7QZ6T0ta94jX2EeM",
-      //   },
-      //         body: JSON.stringify({
-      //           contents: [
-      //             {
-      //               parts: [
-      //                 {
-      //                   text: `You are a travel assistant for **Karma Group** resorts only.
-
-      //                   User asked: ${question}
-
-      //                   Here is a JSON list of official resorts and links.
-      //                   Here is additional text info about resorts:
-      //                   ${resortsText}
-
-      //                   ⚠️ IMPORTANT:
-      //                   - Never reply with "I don’t know", "maybe", or uncertain wording.
-      //                   - If the user’s question is about discounts, loyalty points, or complex policies →
-      //                   ALWAYS respond with:
-      //                       "⚠️ For detailed assistance, please contact Karma Concierge."
-      //                   Then provide only phone & email from JSON.
-      //                   - Only show booking link/resort highlights if the user asked about availability or stays.
-
-      //                   ${JSON.stringify(jsonData.resorts, null, 2)}
-
-      //                   ### Rules:
-      //                   - Be concise, structured, and **confident**.
-      //                   - Strictly limit output to **10 lines max**.
-      //                   - Categories to use (if relevant):
-      //                     - Availability info
-      //                     - Contact options (mandatory if Concierge needed)
-      //                     - Booking link
-      //                     - Resort highlights`,
-      //                 },
-      //               ],
-      //             },
-      //           ],
-      //         }),
-      //       }
-      //     );
-
-      //     //
-
-      //     const data = await response.json();
-      //     console.log(data, "data");
-
-      //     let answer =
-      //       data?.candidates?.[0]?.content?.parts?.[0]?.text ||
-      //       "⚠️ For detailed assistance, please contact Karma Concierge.";
-
-      //     const uncertainPatterns =
-      //       /(i don’t know|maybe|not sure|uncertain|can't help)/i;
-      //     if (uncertainPatterns.test(answer)) {
-      //       answer =
-      //         "⚠️ For detailed assistance, please contact Karma Concierge.";
-      //     }
-      //     addMessage("bot", formatGeminiResponse(answer));
-
-      //     const resort = findResortByName(question);
-      //     if (resort) {
-      //       currentResort = resort;
-      //       showResortButtons(resort);
-      //     }
-      //   } catch (e) {
-      //     addMessage("bot", "Sorry, there was an error connecting to the AI.");
-      //   }
-      // }
 
       function sendFromInput() {
         const input = document.getElementById("chat-input");
@@ -1266,11 +961,10 @@
 
           const resort = findResortByName(val);
           if (resort) {
-            // currentResort = resort;
-            // currentStep = "feature";
-            // showResortDetails(resort);
-            // showResortFeatures(resort);
-            askGeminiDirect(val);
+            currentResort = resort;
+            currentStep = "feature";
+            showResortDetails(resort);
+            showResortFeatures(resort);
           } else {
             askGeminiDirect(val);
           }

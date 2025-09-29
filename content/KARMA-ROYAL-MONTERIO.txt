@@ -1,0 +1,268 @@
+﻿KARMA ROYAL MONTERIO
+
+
+
+
+Meta Page Title:
+Book your room at Karma MonteRio Resort next to Baga river, North Goa
+
+
+
+
+Meta Description:
+Relax in the beautifully appointed rooms or explore the night markets at Anjuna or Baga Creek where the resort is located. Reserve your room now.
+
+
+Banner Headline (3/5 words):
+
+
+HL: Karma Royal MonteRio
+
+
+North Goa, India 
+
+
+
+
+Web Intro (max 120 words):
+Perched on the scenic slopes of an undulating hillside beside the Baga River, Karma Royal MonteRio, a premier resort in Baga Beach, offers the perfect blend of tranquillity and convenience. The resort features elegantly appointed rooms and an exceptional destination restaurant, ensuring that guests have everything they need for a truly relaxing stay without the need to venture beyond the property.
+This property is part of Karma Group’s award-winning Lifestyle and Leisure Club.
+Keywords:  Karma Royal MonteRio, resort in Baga Beach
+
+
+App Intro (max 50 words):
+Set on the slopes by the Baga River, Karma Royal Monterio, a top resort in Baga Beach, combines luxury and convenience. With elegant rooms and a renowned restaurant, guests can relax without leaving the resort.
+Keywords:  Karma Royal Monterio, resort in Baga Beach
+HL: Accommodation
+
+
+At Karma Royal MonteRio, hotel in Baga Beach, Goa,  your home is a beautifully furnished, air-conditioned apartment equipped with modern amenities and thoughtful extras. Each apartment includes a private balcony, kitchenette, en-suite bathroom, TV, kettle, toaster, and complimentary Wi-Fi.
+Keywords:  Karma Royal Monterio, hotel in Baga Beach Goa
+
+
+Room Category 01 max 50 words :
+SHL: Studio
+Unit Code
+	Adults
+	Children (under 10)
+	T0
+	2
+	0
+	
+Unit Code : T0
+2 guests 
+Perfect for couples or solo travelers, these cozy rooms offer a comfortable retreat to unwind after a day full of adventures. It also includes a private balcony, en-suite bathroom, TV, kettle, toaster, and complimentary Wi-Fi.
+Amenities:
+* Double bed
+* Air conditioning 
+* Kettle and toaster
+* TV
+* Wi-Fi
+* A private balcony
+* En-suite bathroom 
+Keywords: Wi-Fi, en- suite
+
+
+
+
+Room Category 02 max 50 words :
+SHL: One Bedroom Apartment
+Unit Code
+	Adults
+	Children (under 10)
+	T1
+	4
+	0
+	
+Unit Code : T1
+4 guests 
+Ideal for couples, these charming rooms feature plush double  beds for a restful stay. It includes a private balcony, en-suite bathroom, TV, kettle, toaster, and complimentary Wi-Fi.
+Amenities:
+* Double bed
+* Air conditioning 
+* Kettle and toaster
+* TV
+* Wi-Fi
+* A private balcony
+* En-suite bathroom 
+Keywords: Wi-Fi, en- suite
+
+
+
+
+Room Category 03 max 50 words :
+SHL: Two Bedroom Apartment
+Unit Code
+	Adults
+	Children (under 10)
+	T2
+	6
+	0
+	
+Unit Code : T2
+6 guests 
+These spacious two-bedroom apartments are perfect for couples or groups of friends, offering plenty of room to unwind and relax together. The master bedroom features a double bed with an attached bathroom, while the second bedroom has two single beds and access to a common bathroom. The apartment also includes a private balcony, TV, kettle, toaster, and complimentary Wi-Fi.
+Amenities:
+* Double bed (attached bathroom)
+* 2 single beds (common bathroom)
+* Air conditioning 
+* Kettle and toaster
+* TV
+* Wi-Fi
+* A private balcony
+Keywords: Wi-Fi
+
+
+
+
+Room Category 04 max 50 words :
+SHL: One Bedroom Imperial Apartment
+Unit Code
+	Adults
+	Children (under 10)
+	T1I
+	4
+	0
+	
+Unit Code : T1I
+4 guests 
+These spacious apartments are perfect for couples or small families, featuring one double bedroom, a sofa cum bed in the living room, and a walk-in shower. Enjoy a private balcony, TV, kettle, toaster, and complimentary Wi-Fi. 
+
+
+Amenities:
+* Double bed
+* Sofa cum bed
+* Air conditioning 
+* Kettle and toaster
+* TV
+* Wi-Fi
+* A private balcony
+* Walk in shower
+
+
+
+
+Room Category 05 max 50 words :
+SHL: Two Bedroom Imperial Apartment
+Unit Code
+	Adults
+	Children (under 10)
+	T2I
+	6
+	0
+	
+Unit Code : T2I
+6 guests 
+These spacious apartments are ideal for families or groups, featuring a master room with a double bed, a second room with twin beds, and a sofa cum bed in the living room. Enjoy a walk-in shower, private balcony, TV, kettle, toaster, and complimentary Wi-Fi. The resort offers a restaurant, cinema hall, and café .
+
+
+Amenities:
+* Double bed
+* Twin bed
+* Sofa cum bed
+* Air conditioning 
+* Kettle and toaster
+* TV
+* Wi-Fi
+* A private balcony
+* Walk in shower
+Keywords: double bed, twin beds, Wi-Fi
+
+
+HL: Cuisine
+
+
+At Karma Royal MonteRio, the menu combines fresh ingredients, bold flavors, and traditional culinary techniques to offer a delicious selection of Indian dishes.
+Keywords:  Karma Royal Monterio
+(max 50 words) :
+SHL: The Baga Brasserie Restaurant 
+Our talented team of chefs specialises in innovative fusion cuisine, crafting exceptional dishes using the finest local ingredients, including freshly caught seafood.
+Keywords:  Fusion cuisine
+
+
+HL: Facilities
+
+
+Nestled on a picturesque hillside with stunning views, Karma Royal MonteRio offers the perfect balance of convenience and relaxation. Located near a wide range of attractions in Goa, the resort also provides an array of on-site amenities, allowing guests to unwind and rejuvenate in a peaceful setting, away from the hustle and bustle.
+Keywords:  Karma Royal MonteRio
+
+
+Category 01 max 50 words :
+SHL: Pools
+Enjoy a swim in one of our two freshwater pools. The upper pool offers picturesque views, featuring a fountain, whirlpool, and jungle surroundings. The lower pool, located near the recreation and reception areas, provides a more urban atmosphere. A children’s pool area is also available for family fun.
+
+
+Category 02 max 50 words :
+SHL: Gym
+Maintain your workout routine or try something new at our fully-equipped gym. Our qualified fitness expert, is available throughout the day to provide guidance and support.
+Category 03 max 50 words :
+SHL: Whirlpool
+Simply relax and enjoy the soothing bubbles at the top pool on the edge of the jungle!
+
+
+
+
+Category 04 max 50 words :
+SHL: Activities Area and Three Monkeys Club
+The activities area offers games and activities for all ages, including Carrom, Foosball, Air Hockey, Table tennis, bingo nights,karaoke and Play Stations.
+For the young guests, we have a play area with toys and a bouncy castle alongside daily art and craft activities. 
+
+
+SHL: Members’ Lounge
+A member exclusive lounge space by the upper level pool with comfortable airconditioned seating, with a library, computer, television and pool table. 
+
+
+SHL: The Cafe
+A cozy coffee shop tucked away opposite the upper level pool serving soft beverages, sandwiches and more all day long. 
+
+
+
+
+
+
+HL: Location 
+Karma Royal Monterio
+Arpora-Baga Road,
+Calangute,
+Bardez,
+Goa 403 516, India
+
+
+
+
+Resort Direct Dial
+(+91) (832) 6716200
+Email
+mr.reception@karmagroup.com
+
+
+
+
+Karma Royal Monterio, where the mood is lively and the party lasts till night
+-Book Now 
+
+
+
+
+
+
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorise Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------

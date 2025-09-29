@@ -1,0 +1,267 @@
+﻿KARMA BORGO DI COLLEOLI
+
+
+Meta Page Title:
+Karma Borgo di Colleoli: Book Luxury Accommodation in Italy.
+
+
+Meta Description:
+Located in the heart of the Tuscan countryside, Karma Borgo di Colleoli is a luxurious 5-star rated resort in Tuscany, Italy. Book to explore!
+Banner Headline (3/5 words):
+HL: Karma Borgo Di Colleoli
+
+
+Tuscany, Italy
+
+
+
+
+Web Intro (max 120 words):
+Nestled in the heart of the Tuscan countryside, Karma Borgo di Colleoli is a historic manor house transformed into an elegant 5-star resort. Centrally located between the cultural treasures of Florence and the historic charm of Pisa, this resort in Tuscany offers easy access to Tuscany’s top destinations, including Siena, San Gimignano, Volterra, and Pisa. The renowned beaches of Forte dei Marmi, Pietrasanta, Viareggio, and Cecina are just a short drive away.
+Keywords: Tuscan countryside, 5-star resort, Florence, Pisa, Siena, San Gimignano, Volterra, Forte dei Marmi, Pietrasanta, Viareggio, Cecina , resort in Tuscany
+
+
+App Intro (max 50 words):
+Karma Borgo di Colleoli, set in the heart of Tuscany, is a luxurious 5-star resort housed in a historic manor. Centrally located between Florence and Pisa, this hotel in tuscany offers easy access to top destinations like Siena, San Gimignano, and Volterra, as well as the beaches of Forte dei Marmi and Viareggio.
+Keywords: Tuscany, 5-star resort,  Florence,  Pisa, Siena, San Gimignano, Volterra, Forte dei Marmi, Pietrasanta, Viareggio, hotel in tuscany
+
+
+HL: Accommodation
+
+
+Karma Borgo di Colleoli, a resort in Tuscany has evolved since the late Middle Ages, first as a castle and later as a villa for Tuscany’s aristocracy during the Renaissance. In 2003, it was meticulously restored by Palummo & Pierotti Architects under the guidance of the Italian Fine Arts Commission. The historic villa now houses the Karma Borgo di Colleoli Palace, offering 12 luxury suites that celebrate its rich heritage.
+Keywords: Karma, Renaissance, Italian Fine Arts Commission, resort in tuscany
+
+
+Room Category 01 max 50 words :
+SHL:  Studio Deluxe Suite
+Unit Code
+	Adults
+	Children (under 10)
+	T0S
+	2
+	1
+	
+The Karma Borgo di Colleoli Palazzo offers twelve exclusive luxury suites, each blending elegant living with the building's rich history. Each suite features a king-size bed, a spacious bathroom, and all modern conveniences for a truly luxurious stay.
+Amenities:
+* King sized bed 
+* Spacious bathroom
+* Air-conditioned 
+
+
+Keywords:  luxury suites, king-size bed
+
+
+
+
+
+
+Room Category 02 max 50 words :
+SHL:         One Bedroom Deluxe Suite
+Unit Code
+	Adults
+	Children (under 10)
+	T1S
+	4
+	1
+	
+The Karma Borgo di Colleoli Palazzo offers twelve exclusive luxury suites, each blending elegant living with the building's rich history. Each one-bedroom suite includes a king-size bed, spacious bathroom, comfortable living room, and all modern conveniences.
+Amenities:
+* King sized bed 
+* Spacious bathroom
+* Living room
+* Air-conditioned 
+
+
+Keywords:  luxury suites, king-size bed
+
+
+Room Category 03 max 50 words :
+SHL:         Two Bedroom Deluxe Suite
+Unit Code
+	Adults
+	Children (under 10)
+	T2S
+	6
+	2
+	
+The Karma Borgo di Colleoli Palace offers twelve exclusive luxury suites, each combining elegant living with the building's historic charm. Each suite features a king-size bed, spacious bathroom, and all modern conveniences.
+Amenities:
+* King sized bed 
+* Spacious bathroom
+* Air-conditioned 
+
+
+Keywords:  luxury suites, king-size bed
+Room Category 04 max 50 words :
+SHL:         Studio Deluxe Apartment 
+Unit Code
+	Adults
+	Children (under 10)
+	T0DLX
+	2
+	1
+	
+This bright and spacious studio apartment for 2, features 1 double bed and a fully equipped kitchen. Located on the first floor, it offers a comfortable living space with a shower (no bath) and is air conditioned . Enjoy all the essentials for a relaxing stay in this well-appointed apartment.
+Amenities:
+* Double bed 
+* Shower
+* Fully equipped kitchen
+* Air-conditioned 
+
+
+Keywords: double bed
+
+
+
+
+Room Category 05 max 50 words :
+SHL: Two Bedroom Deluxe Apartment
+Unit Code
+	Adults
+	Children (under 10)
+	T2DLX
+	6
+	2
+	        
+Apartment 52 is a spacious two-bedroom apartment for 4, located on the second floor. It is air conditioned and features a wide living room with beautiful views of the valley behind the resort. It includes a fully equipped kitchen with an induction hob, microwave, kettle, toaster, fridge, and cooking utensils. The apartment has one bathroom for your convenience.
+Amenities:
+* 2 bedroom
+* 1 Bathroom 
+* Fully equipped kitchen
+* Air-conditioned 
+
+
+Room Category 06 max 50 words :
+SHL:         One Bedroom Deluxe Apartment
+Unit Code
+	Adults
+	Children (under 10)
+	T1DLX
+	4
+	1
+	
+Apartment 19: This ground-floor, one-bedroom apartment is ideal for RCI guests and features a double bed and a step-in shower, suited for handicapped guests. The apartment is small and fairly dark, with minimal windows, making it best suited for 2 guests. It includes a fully equipped kitchen with a microwave.
+Apartment 24: A spacious and bright one-bedroom apartment located on the upper floor features a double bed, and a fully equipped kitchen with a microwave. This apartment will be available from the start of April due to ongoing maintenance.
+Apartment 30 / 32: These two similar one-bedroom upper-floor apartments are both small but bright, featuring double beds and sofa beds. While they can accommodate up to 4 guests, they are best suited for 2 guests. Both apartments include a fully equipped kitchen with a microwave.
+Apartment 48: This one-bedroom second-floor apartment offers wonderful views of the valley behind the resort. It features a double bed and a a fully equipped kitchen with a microwave. It will be available from 17th March due to ongoing maintenance. 
+Amenities:
+* Double bed
+* Sofa bed 
+* Fully equipped kitchen
+* Air-conditioned 
+
+
+HL: Cuisine 
+
+
+Karma Borgo di Colleoli offers two authentic dining experiences: the in-house restaurant, ‘I Secoli’, and a resident wine bar.
+-I Secoli
+-Wine Bar
+
+
+(max 50 words) :
+Category 01 max 50 words :
+SHL: I Secoli
+Karma Borgo di Colleoli’s in-house restaurant is open daily, offering authentic Tuscan cuisine made with the freshest locally sourced ingredients.
+Keywords: authentic Tuscan cuisine
+
+
+
+
+(max 50 words) :
+Category 02 max 50 words :
+SHL: Wine Bar 
+There’s no better place to explore Tuscany’s finest wines than Karma Borgo di Colleoli’s resident wine bar, which offers an impressive selection of vini bianchi and vini rossi.
+Keywords: Tuscany’s finest wines, wine bar, vini bianchi, vini rossi, Karma 
+
+
+
+
+HL: Facilities
+Karma Borgo Di Colleoli offers an unforgettable experience that will have you longing to come back.
+
+
+Category 01 max 50 words :
+SHL: I Secoli Restaurant
+Enjoy traditional Tuscan style cuisine prepared by our experienced local chefs.
+Keywords: Tuscan style cuisine
+
+
+
+
+Category 02 max 50 words :
+SHL: Wine Bar
+Karma Borgo di Colleoli’s Wine Bar serves breakfast, snacks and the best Tuscan varietals throughout the day.
+Keywords: Karma, Wine Bar 
+
+
+Category 03 max 50 words :
+SHL: Pools
+The resort’s two large and stylish pools provide panoramic views of the Tuscan countryside. 
+Keywords: Tuscan Countryside
+
+
+Category 04 max 50 words :
+SHL: Excursions
+Guests looking for adventure can take part in a Vespa tour around the Pisan hills, or vintage car tours, truffle hunting, mountain bike tours, and local food and wine tours.
+Keywords: Piscan hills, wine, vintage car, truffle hunting, mountain
+
+
+Category 05 max 50 words :
+SHL: Hiking Trails
+In the heart of Tuscany, where grapes grow as plentifully as the charm, adventure awaits those willing to stray from the beaten path. Picture yourself strolling through olive orchards and cypress-lined lanes, surrounded by views worthy of a Renaissance masterpiece. Tuscany beckons you to sip, savour, and immerse yourself in its timeless beauty.
+-View Hiking Trails
+Keywords:  Tuscany
+
+
+HL: Weddings
+Your wedding day is a celebration of love, and we are honored to be part of this special moment. Our commitment is to create a day filled with cherished memories that will last a lifetime.
+
+
+HL: Location 
+
+
+Karma Borgo Di Colleoli
+Via Panoramica, 20,Colleoli - 56036,Palaia ( PI ), 
+Italy
+
+
+
+
+
+
+Resort Direct Dial
++39 (0)587 622144
+Resort Fax Number
++39 0587 622046
+
+
+
+
+Email
+borgo@karmagroup.com
+Surrounded by vineyards and olive groves, Karma Borgo di Colleoli embodies Tuscany's timeless beauty.
+* Book Now 
+
+
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorise Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------

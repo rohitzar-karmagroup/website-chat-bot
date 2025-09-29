@@ -1,0 +1,294 @@
+﻿KARMA LAKE OF MENTEITH
+
+
+Meta Page Title:
+Karma Lake of Menteith - Karma Group
+
+
+
+
+Meta Description:
+Karma Lake of Menteith is a breathtaking lakeside residence in Perthshire that can accommodate 48 guests.
+
+
+Banner Headline (3/5 words):
+HL: Karma Lake Of Menteith
+
+
+Stirling, Scotland 
+
+
+Web Intro (max 120 words):
+Karma Lake of Menteith is a stunning lakeside residence in Stirling, accommodating up to 42 guests. With spacious rooms, en-suites, bright conservatories, and a dining room with a wooden deck overlooking tranquil lake waters, the resort blends tranquillity, tradition, and luxury. Historic settlements, castles, and Stirling’s iconic castle are just nearby. This peaceful and scenic setting is the ideal place for a memorable stay, combining modern comforts with the charm of Scotland’s rich history. It is the perfect choice for anyone seeking a luxury hotel in Scotland. 
+Keywords: Karma Lake of Menteith, Stirling, en suite, Scotland, luxury hotel in Scotland
+
+
+
+
+App Intro (max 50 words):
+Karma Lake of Menteith is a lakeside retreat in Stirling, accommodating 48 guests. This lakeside resort in UK offers spacious rooms, en suites, conservatories, and a dining room with a deck overlooking the lake. It combines tranquillity, tradition, and comfort with nearby historic sites, castles, and the iconic Stirling Castle.
+Keywords: Karma Lake of Menteith, Stirling, en suite, Stirling Castle, lakeside resort UK
+
+
+
+
+HL: Accommodation
+Karma Lake of Menteith, a 16-bedroom hotel originally built in 1888, is located on the northeastern shore of the lake. Near Inchmahome Island and its historic Abbey, the dog-friendly hotel offers scenic views and is perfect for countryside walks, blending history with natural beauty.
+Keywords: Karma Lake of Menteith , Inchmahome Island, dog-friendly hotel, countryside 
+
+
+Room Category 01 max 50 words :
+SHL: Superior Room
+Unit Code
+	Adults
+	Children (under 10)
+	4_SP
+	2
+	1
+	These spacious ground-floor rooms offer stunning, unobstructed views of the lake. Featuring modest en-suite baths with showers and bathrobes, they provide a comfortable stay. Dog-friendly, these rooms are ideal for guests traveling with their four-legged companions, allowing both pets and owners to enjoy the picturesque surroundings.
+Amenities:
+* Double bed 
+* En-suite baths
+* Dog friendly
+Keywords: en-suite, Dog-friendly
+
+
+
+
+Room Category 02 max 50 words :
+SHL: Heritage Room
+Unit Code
+	Adults
+	Children (under 10)
+	1_HR
+	2
+	1
+	These attractive, well-appointed rooms feature en-suite bathrooms with both baths and showers, ensuring a comfortable and convenient stay.
+Amenities:
+* Double bed 
+* En-suite bathroom
+* Dog friendly
+Keywords: en-suite
+
+
+
+
+Room Category 03 max 50 words :
+SHL: Deluxe Room
+Unit Code
+	Adults
+	Children (under 10)
+	3_DX
+	2
+	1
+	The Deluxe Rooms at Karma Lake of Menteith offer spacious comfort, featuring large en-suite bathrooms with roll-top bathtubs, double sinks, walk-in showers, and soft bathrobes. These rooms provide stunning views of the lake, along with picturesque vistas of the surrounding hills and mountains, creating a truly relaxing escape.
+Amenities:
+* Double bed 
+* En-suite bathroom
+* Roll-top bathtubs
+* Walk-in showers
+Keywords: en-suite, Karma
+
+
+Room Category 04 max 50 words :
+SHL: Heritage Combination
+Unit Code
+	Adults
+	Children (under 10)
+	5_HR_CB
+	4
+	2
+	
+
+These attractive, well-appointed rooms feature double bed, en-suite baths with showers and provide a range of amenities for your comfort. You can bring your furry friends along, and enjoy tea and coffee making facilities, TV, telephone, and Wi-Fi, and additional amenities include bathrobes and a hair dryer.
+Amenities:
+* Double bed 
+* En-suite bathroom
+* Tv
+* Telephone
+* Mini bar 
+* Bathrobes
+* Wi-Fi
+Keywords: en-suite, mini bar, Wi-Fi
+
+
+
+
+Room Category 05 max 50 words :
+SHL: Superior Combination
+Unit Code
+	Adults
+	Children (under 10)
+	7_SP_CB
+	4
+	2
+	
+
+This room features a double bed, en-suite baths with showers and provides a range of amenities for your comfort. It also includes tea and coffee making facilities, TV, telephone, and Wi-Fi, and additional amenities include bathrobes and a hair dryer. These rooms are pet friendly.
+Amenities:
+* Double bed 
+* En-suite bathroom
+* Tv
+* Telephone
+* Mini bar 
+* Bathrobes
+* Wi-Fi
+Keywords: en-suite, Wi-Fi
+
+
+Room Category 06 max 50 words :
+SHL: 2 Bedroom Heritage Apartment
+Unit Code
+	Adults
+	Children (under 10)
+	8_HERIPA
+	4
+	2
+	
+
+This room features two  double bedrooms, en-suite shared bathroom with showers and provides a range of amenities for your comfort. It also includes tea and coffee making facilities, TV, telephone, and Wi-Fi, and additional amenities include bathrobes and a hair dryer. 
+Amenities:
+* Double bed 
+* En-suite bathroom
+* Tv
+* Telephone
+* Mini bar 
+* Bathrobes
+* Wi-Fi
+Keywords: en-suite, mini bar, Wi-Fi
+
+
+
+
+
+
+Room Category 07 max 50 words :
+SHL: Heritage Room  - this rooms is already on top with different description
+Unit Code : 1_HR
+The resort’s Classic Rooms offer the option of a double bed or twin bed, each featuring high-quality linen for a comfortable stay. The en-suite bathrooms are equipped with both bath and showers, It also features windows that provide beautiful views of the resort grounds and the surrounding lush greenery. These rooms are dog friendly.
+Amenities:
+* Double bed/ Twin bed
+* High quality linen
+* En-suite bathroom
+* Tv
+* Telephone
+* Wi-Fi
+Keywords: en-suite, double bed, twin bed
+
+
+
+
+
+
+
+
+HL: Cuisine 
+We embrace a farm-to-table approach, sourcing the finest ingredients from Scotland and the British Isles to create delicious dishes that highlight the region’s rich culinary heritage. Our simple, flavorful meals are lovingly prepared, perfectly reflecting the natural beauty and spirit of the surrounding environment.
+Keywords: Scotland, the British Isles 
+
+
+
+
+(max 50 words) :
+Category 01 max 50 words :
+SHL: Restaurant & Bar 
+Overlooking The Lake, the restaurant offers a relaxing atmosphere with a large wooden deck and terracing along the waterfront. The interior features seasonal local timber, stone, oak beams, and a grand open hearth fireplace. Enjoy expertly prepared Scottish dishes, focusing on locally sourced and seasonal ingredients.
+Opening Hours:
+Breakfast: 8-10am | Lunch (Mon-Fri): 12-3:00pm | Lunch (Sat-Sun): 12-8pm | Dinner (Mon-Fri): 5:30-8:00pm.
+- Main Menu
+- Bar Menu
+- Breakfast Menu
+- Book A Table
+Keywords:  local timber, fireplace, Scottish dishes
+
+
+
+
+HL: Facilities
+
+
+The facilities at Karma Lake of Menteith are designed to enhance your quintessential Scottish experience in Stirling, featuring a traditional onsite country pub and an impressive Malt Vault, offering guests a perfect blend of local hospitality and distinctive Scottish charm.
+Keywords: Karma Lake of Menteith, Stirling, country pub 
+
+
+
+
+Category 01 max 50 words :
+SHL: Malt Vault
+Scotland has been distilling malt to create "aqua vitae" (water of life) since as early as 1494. While the early batches may have been questionable, centuries of craftsmanship and innovation have perfected the art. Karma Lake of Menteith’s Malt Vault now houses an impressive collection of malts, at last county 135 malts ranging from local and unique to incredibly rare. 
+Keywords: Scotland, Karma Lake of Menteith
+
+
+Category 02 max 50 words :
+SHL: Traditional Pub 
+Enjoy the cosy, homely atmosphere of Karma Lake of Menteith’s onsite restaurant, featuring oak beams, an open fire, and stunning views. Our talented chefs craft traditional favourites with locally sourced ingredients alongside international-inspired dishes, offering a delightful dining experience in a warm and inviting setting.
+Keywords: Karma Lake of Menteith
+
+
+Category 03 max 50 words :
+SHL: Sun Terrace
+Karma Lake of Menteith’s sun terrace offers the perfect lakeside setting to enjoy stunning views. We highly recommend watching the sunset from this peaceful spot, even if it means wrapping up in your coziest winter layers for a truly serene experience.
+Keywords: Karma Lake of Menteith
+ 
+Category 04 max 50 words :
+
+
+Keywords: Karma Lake of Menteith
+Category 05 max 50 words :
+SHL: Hiking Trails
+Nestled among rolling hills and ancient forests, Stirling is a historic city offering outdoor adventures that will take your breath away. From mysterious lochs to majestic castles perched on rocky crags, Stirling beckons explorers to uncover its secrets and embrace its wild, stunning beauty.
+- View Hiking Trails 
+Keywords: Stirling
+
+
+HL: Wedding
+Welcome to Karma Lake of Menteith, a stunning lakeside retreat in Stirling, Scotland, blending tranquility, tradition, and luxury. We are dedicated to offering an unforgettable and romantic setting for your wedding, providing an exceptional experience. Celebrate with up to 60 guests during the day and up to 150 in the evening.
+- Download Wedding Brochure 
+- Download Elopement Wedding Brochure 
+- More Details
+Keywords: Karma Lake of Menteith, Stirling, Scotland
+
+
+HL: Location 
+
+
+Karma Lake of Menteith
+Port of Menteith,
+Stirling FK8 3RA,
+United Kingdom,
+
+
+
+
+
+
+Resort Direct Dial
++44 (0) 1877 385258
+
+
+
+
+Email
+reception@karmalakeofmenteith.com
+Located on the banks of the Lake of Meneith, Scotland’s only natural lake
+-Book Now 
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorise Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------

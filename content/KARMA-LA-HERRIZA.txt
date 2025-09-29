@@ -1,0 +1,254 @@
+﻿KARMA LA HERRIZA
+Meta Page Title:
+Karma La Herriza - Karma Group
+
+
+
+
+Meta Description:
+The perfect Andalusian-style escape. Karma La Herriza is a fusion of charming townhouses and beautiful apartments, in our quintessential...
+
+
+Banner Headline (3/5 words):
+HL: Karma La Herriza
+
+
+Gaucin, Spain
+
+
+Web Intro (max 120 words):
+Karma La Herriza, hotel in Andalucia, offers the perfect Andalusian-style retreat, blending charming townhouses and beautiful apartments within our quintessential ‘Cortijo’. At the heart of the property is a lively courtyard, ideal for al-fresco dining while soaking in the Gaucin atmosphere. Enjoy stunning mountain views, whitewashed exteriors, year-round swimming, and cozy fireplaces—just a glimpse of what awaits you at Karma La Herriza.
+Keywords: Karma La Herriza, Andalusian-style, Gaucin, hotel in Andalucia
+
+
+App Intro (max 50 words):
+Karma La Herriza, hotel in Andalucia offers an Andalusian-style retreat with charming townhouses and apartments in a traditional ‘Cortijo’. Enjoy al-fresco dining in the vibrant courtyard, stunning mountain views, whitewashed exteriors, year-round swimming, and cozy fireplaces, everything you need for a memorable stay.
+Keywords: Karma La Herriza, Andalusian-style, Hotel in Andalucia 
+
+
+
+
+
+
+HL: Accommodation
+Karma La Herriza offers the perfect Andalusian-style escape, blending charming townhouses and beautiful apartments within a traditional ‘Cortijo’.
+
+
+Keywords: Karma La Herriza, Andalusian-style
+
+
+Room Category 01 max 50 words :
+SHL: Two Bedroom Apartment
+Unit Code
+	Adults
+	Children (under 10)
+	T2
+	6
+	2
+	
+
+The 2-bedroom suite townhouse in 'Cortijo' combines comfort and style with a cozy lounge, sofa bed, wardrobe, and en-suite bathroom. Some rooms feature a small terrace and fireplace. Perfect for a peaceful stay, this spacious retreat offers both relaxation and practicality, ensuring a comfortable and memorable experience.
+Amenities:
+* 2 bedroom suite
+* Sofa bed
+* Wardrobe
+* Some have a Fireplace
+* En-suite bathroom 
+Keywords: 2-bedroom suite, en-suite
+
+
+Room Category 02 max 50 words :
+SHL: One Bedroom Apartment
+Unit Code
+	Adults
+	Children (under 10)
+	T1
+	4
+	1
+	
+
+The 1-bedroom suite townhouse in 'Cortijo' offers a perfect blend of comfort and elegance. Featuring a cozy lounge, sofa bed, wardrobe, and en-suite bathroom, it ensures a relaxing stay. Some room types also include a small terrace and fireplace, adding extra charm to this peaceful, well-appointed retreat.
+Amenities:
+* 1 bedroom suite
+* Sofa bed
+* Wardrobe
+* Fireplace
+* En-suite bathroom 
+Keywords: 1-bedroom suite, en-suite
+
+
+Room Category 03 max 50 words :
+SHL: Studio
+Unit Code
+	Adults
+	Children (under 10)
+	T0
+	2
+	1
+	The studio in 'Cortijo' provides a stylish and comfortable retreat with a cozy lounge, sofa bed, wardrobe, and en-suite bathroom. Some room types feature a small terrace and fireplace, perfect for relaxing. This compact yet well-appointed space offers everything needed for a peaceful and enjoyable stay.
+Amenities:
+* Sofa bed
+* Wardrobe
+* Small terrace
+* Fireplace
+* En-suite bathroom 
+
+
+Keywords: Studio, en-suite
+
+
+
+
+Room Category 04 max 50 words :
+SHL: Two Bedroom (4+1)
+Unit Code
+	Adults
+	Children (under 10)
+	T2(4+1)
+	4
+	1
+	The two-bedroom suite townhouse features a comfortable Queen bed, while the second room comes with a single bed. The living room offers a double sofa bed. Each room has air conditioning, a small fridge, a wardrobe, and tea/coffee facilities. Some rooms include a small terrace. The ensuite bathroom features a bathtub, ensuring a calming experience during your stay. 
+Amenities:
+* Queen bed
+* Single bed
+* Double sofa bed
+* Wardrobe
+* Small terrace
+* Tea/coffee facilities
+* Mini fridge
+* En-suite bathroom 
+
+
+Keywords: queen bed, en-suite
+
+
+
+
+Room Category 05 max 50 words :
+SHL: Two Bedroom (4+2)
+Unit Code
+	Adults
+	Children (under 10)
+	T2(4+2)
+	4
+	2
+	The two-bedroom suite townhouse features two double beds, and the living room offers a sofa bed. Each room has air conditioning, a small fridge, a wardrobe, and tea/coffee facilities. Some rooms include a small terrace. The ensuite bathroom features a bathtub, ensuring a calming experience during your stay. 
+Amenities:
+* 2 double beds
+* Sofa bed
+* Wardrobe
+* Small terrace
+* Tea/coffee facilities
+* Mini fridge
+* En-suite bathroom 
+
+
+Keywords: en-suite
+
+
+
+
+
+
+HL: Cuisine 
+Karma La Herriza features a contemporary Andalusian eatery that celebrates locally sourced, wholesome products with a creative twist. This Gaucin hotel menu includes delicious tapas, paellas, meats, community dinners, and special events, and an extensive selection of Andalucía, Rioja, and Ribera del Duero wines.
+Keywords: Karma La Herriza, Gaucin hotel
+Category 01 max 50 words :
+SHL: Restaurant & Bar
+The restaurant at Karma La Herriza spans two floors, four terraces, and a traditional Andalusian patio, offering stunning views of the Natural Park and the pool area. The bar serves a mix of traditional and contemporary drinks, available both indoors and by the pool, enhancing the overall experience.
+- Lunch Menu
+- Dinner Menu
+- Indian Menu
+Keyword:  Karma La Herriza, Natural Park
+
+
+HL: Facilities
+Nestled by the Los Alcornocales National Park, the retreat features traditional patios, lush gardens, a pool, sauna, and an inviting restaurant, along with nearby experiences for a perfect escape.
+Category 01 max 50 words :
+SHL: Wine Tasting
+This can be arranged at a local winehouse on request.
+
+
+
+
+Category 02 max 50 words :
+SHL: Member Lounge 
+Located above the restaurant, it offers stunning views, comfortable seating, a fireplace, TVs, and a selection of vinyl records.
+
+
+
+
+Category 03 max 50 words :
+SHL: Car Parking
+A spacious car park is available.
+
+
+Category 04 max 50 words :
+SHL: Golf Course
+Award-winning golf courses are just a short 1-hour drive away.
+
+
+
+
+Category 05 max 50 words :
+SHL: Hiking & Trails
+Andalusia is a paradise for outdoor enthusiasts, with stunning, postcard-worthy views. Imagine wandering through sunlit hills, ancient olive groves, and dramatic cliffs that drop into the crystal-clear Mediterranean.
+- View Hiking Trails
+
+
+HL: Weddings
+Karma La Herriza offers the perfect Andalusian-style escape, blending charming townhouses and beautiful apartments within our quintessential ‘Cortijo’. It’s an idyllic venue to celebrate your picturesque wedding, creating memories that will last a lifetime. Your wedding day is one of the most important moments, and we are dedicated to making it unforgettable.
+- Download Wedding Brochure 
+- More Details 
+
+
+HL: Location 
+
+
+Karma La Herriza
+Hacienda la Herriza, 
+MA9300 km 4.7, 
+29480 Gaucín,
+Andalucia, Spain
+
+
+Resort Direct Dial
++34 951 650 809
+
+
+
+
+Email
+karmalaherriza@karmagroup.com
+
+
+
+
+The gentle majesty of the Andalucian mountains, offering breathtaking views of the Mediterranean sea.
+- Book Now
+
+
+
+
+
+
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorise Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------

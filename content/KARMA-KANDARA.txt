@@ -1,0 +1,782 @@
+﻿KARMA KANDARA 
+
+
+Banner Headline (3/5 words):
+HL: Karma Kandara
+Ungasan, Bali , Indonesia
+HL: Cliffside Luxury: Your Exclusive Bali Escape
+Web Intro (max 120 words):
+Karma Group’s flagship luxury beach resort in Bali  Karma Kandara is set on spectacular limestone cliffs in Bali’s iconic Bukit Peninsula, dubbed “Billionaire’s Row.” Bringing together five-star villa residences, destination fine dining, a cliff-hanging spa village, private beach club and much more,  Karma Kandara epitomizes the island’s captivating spirit, promising unforgettable vacations, wellness retreats, destination weddings and more. Truly a leading luxury beach resort in Bali, Karma Kandara is all about barefoot luxury travel experiences and sophisticated indulgence – and your gateway to the rich cultural, culinary and nature-based offerings Bali has to offer. 
+Keywords: Luxury resort in Bali, Karma, Karma Kandara, Bali’s Bukit Peninsula, Luxury beach resort in Bali, Wellness retreat, Luxury travel. 
+
+
+App Intro (max 50 words):
+Set on limestone cliffs in Bali's prestigious Bukit Peninsula high above the Indian Ocean, Karma Kandara blends five-star private villa residences with world-class dining, cliff-hanging spa facilities, a stunning private beach club and more. Our flagship luxury resort in Bali epitomises sophisticated island living while embracing Bali's rich cultural heritage. 
+Keywords: Luxury resort in Bali
+
+
+HL: Accommodation
+
+
+Karma Kandara blends traditional Balinese architecture with world-class amenities, offering a collection of luxurious private villa residences that bring a contemporary twist to the classical Balinese garden compound design. Each residence features pavilions that surround a secluded tropical courtyard and a private pool, available in two-, three-, and four-bedroom configurations, showcasing natural stone, teakwood decking, and roofs crafted from indigenous grasses or ironwood tiles.
+Karma Group is committed to providing the best value with our Bali Price Match Guarantee. Should you find a lower qualified price on another platform, we will gladly match it. Please send the offer to res@karmaresorts.com for verification.
+Keywords: Karma Kandara, Karma Resorts, Balinese architecture, private villas.
+Room Category 01 max 50 words :
+SHL: One Bedroom Deluxe Pool Villa 
+Unit Code
+VP/GL
+	Adults
+	Children (under 10)
+	T1PF/1BR_GV_KRR
+	4
+	1
+	These private pool villas are ideal for honeymooners and couples and feature spacious open-plan living areas, dedicated dining spaces, serene tropical views, and a luxurious infinity pool. The ultimate retreat for those seeking a secluded getaway in Bali’s most exclusive neighborhood.
+Amenities:
+* Double bed
+* Sofa bed 
+* Dining area 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+SHL: One Bedroom Garden View Pool Villa
+Unit Code 
+VP/GL
+	Adults
+	Children (under 10)
+	T1PV / 1BR_GV
+	2
+	1
+	As above but no sofa bed 
+Room Category 02 max 50 words : 
+SHL: Two Bedroom Deluxe Pool Villa
+
+
+Unit Code
+VP/GL
+	Adults
+	Children (under 10)
+	T2PVF/2BR_GV_KRR
+	6
+	2
+	
+
+These private pool villas are perfect for families or friends travelling together and feature a spacious open-plan living and dining area that opens onto expansive terraces with infinity pools,  traditional Indonesian bales, and sun loungers, all set within private tropical gardens. The ultimate luxury retreat in Bali.  
+Amenities:
+* Double bed
+* Sofa bed 
+* Dining area 
+* Mini Kitchen 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+* Terrace 
+
+
+
+
+
+
+
+
+
+
+
+
+SHL: Two Bedroom Garden View Pool Villa
+Unit Code
+VP/GL
+	Adults
+	Children (under 10)
+	T2PV / 2BR_GV
+	4
+	2
+	
+
+As above but no sofa bed 
+Room Category 03 max 50 words : 
+SHL: Three Bedroom Deluxe Pool Villa
+Unit Code
+VP/GL
+	Adults
+	Children (under 10)
+	T3PVF / 3BR_GV_KRR
+	8
+	2
+	
+
+These private pool villas feature open-plan living and dining for six and a fully equipped kitchen. Each villa offers a spacious terrace with an infinity pool, sun loungers, outdoor dining, and private tropical gardens. Views vary, offering a mix of serene and stunning garden, ocean and cliff-side ocean vistas.
+Amenities:
+* Double bed
+* Sofa bed 
+* Fully equipped Kitchen
+* Dining area  
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+* Terrace
+
+
+
+
+
+
+
+
+
+
+
+
+SHL: Three Bedroom Garden View Pool Villa
+
+
+Unit Code
+VP/GL
+	Adults
+	Children (under 10)
+	T3PV/3BR_GV
+	6
+	2
+	
+
+As above but no sofa bed 
+
+
+Room Category 04 max 50 words :  
+SHL: Three Bedroom Ocean View Villa 
+Unit Code : 3BR_OV
+
+
+
+
+Unit Code
+VP/GL
+	Adults
+	Children (under 10)
+	T3OV/3BR_OV
+	6
+	2
+	
+
+This luxurious villa offers stunning Indian Ocean panoramas, three en-suite bedrooms, open-plan living, and a dining area for six. It includes a fully equipped kitchen and private infinity pool, providing a serene and upscale Bali escape. Ideal for those looking for a refined and comfortable retreat.
+Amenities:
+* Three Ensuite bedrooms 
+* Dining area 
+* Sofa bed 
+* Fully equipped Kitchen 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+
+
+
+
+
+
+
+
+
+
+
+
+Room Category 05 max 50 words : 
+SHL: Three Bedroom Cliff Front Villa  (this is Non Rent Back so does not exist in our rental pool)
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	3BR_CF_NRB
+	6
+	2
+	
+
+Perched on spectacular limestone cliffs high above the Indian Ocean, this stunning villa offers unparalleled ocean views, private infinity pool, and beautifully landscaped tropical gardens. The villa residence also features three en-suite bedrooms, spacious open-plan interiors, and an outdoor dining area. The ultimate in tropical luxury in Bali’s most prestigious neighbourhood. 
+Amenities:
+* Three Ensuite bedrooms 
+* Dining area 
+* Sofa bed 
+* Fully equipped Kitchen 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+
+
+Room Category 06 max 50 words :
+SHL: Three Bedroom Garden View Superior Deluxe Villa
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	3BR_GV_SUP
+	6
+	2
+	
+
+Nestled within lush tropical gardens, this villa offers three spacious en-suite bedrooms and an expansive private infinity pool with a serene garden. The villa residence’s spacious open-plan design, combined with luxurious amenities, creates a peaceful setting perfect for families or small groups seeking privacy and comfort in Bali’s most exclusive neighborhood.
+Amenities:
+* Three Ensuite bedrooms 
+* Dining area 
+* Sofa bed 
+* Fully equipped Kitchen 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+
+
+Room Category 07 max 50 words :  
+SHL: Three Bedroom Ocean View Superior Deluxe Villa
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	3BR_OV_SUP
+	6
+	2
+	This villa offers stunning ocean views, three en-suite bedrooms, and a private infinity pool. The spacious interiors are complemented by modern amenities and a large terrace perfect for indoor/outdoor living. This perfect luxury villa offers the ideal Bali retreat for families or groups visiting the Island of the Gods. 
+Amenities:
+* Three Ensuite bedrooms 
+* Dining area 
+* Sofa bed 
+* Fully equipped Kitchen 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+* Large terrace 
+
+
+
+
+Room Category 08 max 50 words : 
+SHL: Four Bedroom Cliff Front Villa (this is Non Rent Back so does not exist in our rental pool)
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	4BR_CF_NRB
+	8
+	2
+	
+
+This villa offers dramatic cliff-front ocean views, four en-suite bedrooms and a private infinity pool set amidst elegant living spaces. Ideal for larger groups or families, the villa residence provides a perfect blend of luxury and comfort. This luxury villa in Bali ensures an unparalleled Bali vacation experience in a truly stunning setting.
+Amenities:
+* Four Ensuite bedrooms 
+* Dining area 
+* Sofa bed 
+* Fully equipped Kitchen 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+
+
+
+
+Room Category 09 max 50 words :
+SHL: Four Bedroom Ocean View Villa 
+Unit Code
+VP/GL
+	Adults
+	Children (under 10)
+	T4OV/4BR_OV
+	8
+	2
+	
+
+Offering panoramic ocean views, this grand villa residence includes four beautifully appointed en suite bedrooms, a private infinity pool and a spacious terrace set in beautiful tropical gardens. Designed for ultimate comfort and relaxation, it provides expansive living spaces and cutting-edge amenities, making it the perfect choice for families or groups seeking a luxurious retreat in Bali’s most exclusive neighbourhood.
+Amenities:
+* Four Ensuite bedrooms 
+* Dining area 
+* Sofa bed 
+* Fully equipped Kitchen 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+Room Category 10 max 50 words :
+SHL: Four Bedroom Garden View Pool Villa (this is Non Rent Back so does not exist in our rental pool)
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	4BR_GV_NRB
+	8
+	2
+	
+
+This stunning villa residence is a luxurious tropical haven featuring four en-suite bedrooms, a private infinity pool set amidst lush tropical gardens, creating a serene and opulent setting. The spacious open-plan living and dining areas offer plenty of room for relaxation and socializing, making it an ideal choice for families or groups seeking a luxurious and private experience with world class amenities, all in Bali’s most exclusive neighbourhood. 
+Amenities:
+* Four Ensuite bedrooms 
+* Dining area 
+* Sofa bed 
+* Fully equipped Kitchen 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+
+
+
+
+Room Category 11 max 50 words : 
+SHL: Five Bedroom Grand Residence Maria 
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	5BR_CF_MAR
+	10
+	2
+	This luxurious and expansive villa residence features five en-suite bedrooms, a private infinity pool, and expansive living spaces. The master suite, located on the second floor, offers breathtaking ocean views, while the spacious terrace and outdoor dining areas  create the ultimate Bali luxury retreat in the island’s most exclusive neighbourhood with incredible amenities right on your doorstep.
+Amenities:
+* Five Ensuite bedrooms 
+* Dining area 
+* Sofa bed 
+* Fully equipped Kitchen 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+* Terrace 
+
+
+
+
+Room Category 12 max 50 words :
+SHL: Five Bedroom Grand Residence Nirvana 
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	5BR_CF_NIR
+	10
+	2
+	
+
+This exquisite luxury villa residence offers five en-suite bedrooms, a private infinity pool, and breathtaking ocean views. The villa boasts spacious interiors and cutting edge design creating the perfect marriage  of high end luxury and indulgent comfort. Ideal for families or groups, the Grand Residence Nirvana provides the ultimate retreat for those seeking exclusivity, privacy, indulgence, and an unforgettable Bali experience in the most exclusive neighbourhood on the island.
+Amenities:
+* Five Ensuite bedrooms 
+* Dining area 
+* Sofa bed 
+* Fully equipped Kitchen 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Private Pool
+
+
+
+
+Room Category 13 max 50 words :
+SHL: Studio Deluxe Suite 
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	STUDIO
+	2
+	1
+	
+
+The bijou studio apartments are perfect for solo travellers and couples, featuring a  bedroom, which gives onto a private balcony and a spacious ensuite bathroom. Fixtures and fittings include a long desk, wardrobe, kitchenette and loungers. Choose between serene garden views or expansive panoramas over Uluwatu’s undulating landscape.
+Amenities:
+* Double bed
+* Private balcony
+* Wardrobe
+* Kitchenette
+* Loungers 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+
+
+Room Category 14 max 50 words :
+SHL: One Bedroom Deluxe Suite
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	1_BR_APT
+	4
+	1
+	
+
+These apartments are perfect for solo travellers and couples. They have a spacious open plan living room and dining area, dining table for four and fully equipped kitchens. Both the bedroom and living area lead out onto a private balcony, while the grounds include loungers.
+Amenities:
+* Double bed
+* Dining area 
+* Private balcony
+* Fully equipped kitchen
+* Loungers 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+
+
+
+
+Room Category 15 max 50 words :
+SHL: Two Bedroom Deluxe Suite
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	2_BR_APT
+	6
+	2
+	
+
+These apartments are ideal for small families or friends travelling together. They have a spacious open plan living room and dining area, dining table for six and a fully equipped kitchen. Both the bedroom and living area lead out onto a private balcony, and the second bedroom has its own balcony.
+
+
+Amenities:
+* Double bed
+* Dining area 
+* Private balcony
+* Fully equipped kitchen
+* Loungers 
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+
+
+Room Category 16 max 50 words :
+SHL: One Bedroom Deluxe Villa (No Pool)
+
+
+Unit Code
+	Adults
+	Children (under 10)
+	1BR_NP_KRR
+	4
+	1
+	
+
+These one-bedroom villas are ideal for honeymooners or couples, offering complete privacy. They have a spacious open plan living room and dining area, this space then opens out onto a large terrace. With views of tropical gardens this is the perfect hideaway.
+Amenities:
+* Double bed
+* Sofa 
+* Dining area 
+* Mini kitchen
+* Ensuite bathroom 
+* Air-conditioned
+* Flat-screen TV 
+* Large terrace
+
+
+Missing units that will be renovated soon:
+One Bedroom Garden View Superior Deluxe Villa        1BR_GV_SUP
+Two Bedroom Garden View Superior Deluxe Villa        2BR_GV_SUP
+Four Bedroom Ocean View Superior Deluxe Villa        4BR_OV_SUP
+
+
+
+
+
+
+HL: Cuisine 
+
+
+The cuisine at Karma Kandara is quite simple really: fresh ingredients, exotic flavours and classic cooking techniques inspired by our favourite European and Asian destinations.
+
+
+
+SHL: di Mare Restaurant
+Named among the Top 50 Restaurants in Asia, di Mare is an authentic Italian family style dining  restaurant set in a post-modern pavilion on a cliff top high above the Indian Ocean. Group Executive Chef Joseph Antonishek serves up authentic Mediterranean dishes inspired by Italy’s iconic regional traditions, featuring seasonal menus that showcase fresh, farm-to-table produce where available and premium ingredients throughout. 
+
+
+There’s an authentic Napolitan wood fired pizza oven along with lavish salumi and cheese stations. The di Mare menu is complemented by a thoughtfully curated and substantial cellar of old and new world wines, creating an elevated family-style dining experience that will delight the senses.
+
+
+- Menu 
+- Book Table
+
+
+
+
+SHL: Temple Lounge 
+
+
+Set on the rooftop of di Mare restaurant, Temple Lounge evokes a North African ambience with colorful banquettes & lanterns, creating a Kasbah-like setting where guests enjoy custom cocktails and middle east inspired tapas.
+- Menu 
+- Book Table
+
+
+
+
+SHL:  NEGRONI BAR 
+
+
+The air-conditioned Negroni Bar captures the old world glamour of a Florentine cocktail lounge, serving an exclusive selection of Karma signature negroni mixers among a kaleidoscope of curated cocktails from the classic to the avant garde and a cellar boasting the finest wines available on the island. The gathering ground for both pre-dinner aperitifs, post-dinner digestifs and intimate invitation soirees hosted by international music selectors playing on a custom sound system. 
+
+
+- Cocktail Menu
+
+
+
+
+SHL: Karma Beach Bali
+Blissful barefoot days and glamorous nights: Karma Beach invites full immersion into sand-sun-and-surf hedonism. Enjoy family-friendly watersports, beachcombing, all-day dining, special events, oceanside spa treatments, yoga, fitness, and private cabanas for ultimate relaxation and fun. International DJs soundtrack sunsets and watch out for our world famous beach parties and outdoor cinema under the stars. This luxury beach playground in Bali offers the perfect blend of leisure and excitement. 
+-Menu
+- Experience Karma Beach 
+
+
+
+
+SHL: The Beach Shack 
+THE BEACH SHACK
+Bali’s one and only beachfront homage to the Indian subcontinent, The Beach Shack marries Goan beach vibes with Indian Ocean luxury a la Karma. The latest addition to the iconic Karma Beach Bali, The Beach Shack serves bold Indian coastal cuisine right on the sand from sunrise to starlight.
+Chef Jeevraj's menu dazzles with authentic regional specialties like fiery Laal Maas and coconut-infused Goan Fish Curry. Arrive via an exhilarating ride down limestone cliffs on Bali's first licensed hill tram for the full experience.
+Feel the ocean breeze while savouring world-class flavours. Whether for brunch, lunch or a sunset feast, The Beach Shack delivers an unforgettable culinary journey in Bali's most stunning beachfront setting.
+
+
+
+
+-Menu 
+
+
+
+
+
+
+
+
+SHL: Le Club 22 Bar 
+Karma Beach Bali proudly presents Le Club 22 Bar, a unique beachfront bar and  dining concept serving  Mediterranean-inspired, pan-Pacific cuisine and tapas in a stunning beachfront setting steps away from the Indian Ocean. Experience the art of mixology with expertly crafted cocktails, blending the finest ingredients for refreshing and innovative drinks. Perfect for unforgettable moments, where exquisite international flavors, fabulous company and tropical ocean magic collide.
+
+
+
+
+HL: Karma Spa 
+Set into the limestone cliffs, the award-winning Karma Spa features sublime thatched-roof bales with incredible views overlooking the Indian Ocean. The centerpiece is our cliff Ocean Spa Suite featuring an open-air massage bale with an Infrared Sauna and Soaking Pool. Explore a unique menu of world-class bodywork, wellness rituals, Balinese healers, Intraceuticals oxygen facials, yoga and sound healing. Be nurtured by our spa team of anatomy-trained bodyworkers who deliver treatments that nourish, nurture, restore and replenish.
+Keywords: Karma, Indian Ocean, Wellness rituals, Balinese healers, yoga, sound healing
+
+
+
+
+SHL: Treatment Menu
+Experience the award-winning Karma Spa, where sublime treatments are designed to nourish, nurture, and heal. Perched on rugged limestone cliffs with breathtaking 180-degree views of the Indian Ocean, the spa offers a serene retreat featuring stunning Spa Huts. At its heart lies the Ocean Spa Suite, a haven of relaxation equipped with open-air massage bales and innovative bio-hacking therapies, including an Infrared Sauna, Ice Bath, Ocean Shower, and a bubbling Jacuzzi. Let the spa’s team of anatomy-trained bodyworkers guide you through restorative treatments that replenish both body and soul.
+-  Spa Menu - PDF attachment
+- Book Via Whatsapp - Whatsapp number
+Keywords: Karma, heal, Spa huts, Indian Ocean, Ice bath, Jacuzzi
+
+
+SHL: Wellness Activities 
+TUESDAY – Karma Yoga 8-9am
+WEDNESDAY
+Boxing Fit 8am-9am/ IDR 350,000++ per person
+THURSDAY – Karma Yoga 8-9am
+FRIDAY
+*Kids Yoga 9am – IDR 100,000++/person
+*Karma E-Bike Guided Tour 8am-10.30am
+Join us for an amazing 2-hour guided E-bike tour through Southern Bali’s most picturesque coastal roads and villages. IDR 700,000 ++/person
+SATURDAY
+Boxing Fit 8am-9am/IDR 350,000++ per person
+SUNDAY – Karma Yoga 8-9am
+-Book Via Whatsapp
+-Book Via Email
+
+
+SHL: Spa and Dine 
+Perched on limestone cliffs with sweeping views of the Indian Ocean, your Karma experience begins with a deeply relaxing couples massage, followed by a detoxifying Infrared Sauna session. Continue your journey to serenity with a refreshing plunge in our Cliff Soaking Pool while watching the sun set over the vibrant horizon.
+After sunset, indulge in a special Spa & Dine sharing menu, expertly prepared by our Culinary Team and paired with a bottle of sparkling wine. Start with a selection of tuna tartare, butterfish aburi, and prawn pomelo, followed by a superfood salad. Choose between Black Cod or roast filet mignon for the main course, and finish with delectable dessert selections. From a rejuvenating massage to a romantic dining experience, Karma Kandara’s Spa & Dine package offers the ultimate indulgence.
+IDR 5,500,000++ (subject to 10% service charge & 11% government tax) per couple.
+-Book Via Whatsapp
+-Book Via Email
+
+
+HL: Facilities
+
+
+Slip off your shoes and let us customise a holiday like no other, just for you.
+
+
+SHL: Karma Beach Bali
+Blissful barefoot days and glamorous nights: Karma Beach invites full immersion into sun-sand-&-surf hedonism. Enjoy family-friendly watersports, beachcombing, all-day dining, special events, oceanside spa treatments, yoga, fitness, and private cabanas for ultimate relaxation and fun. International DJs soundtrack sunsets, and watch out for our world-famous beach parties and outdoor cinema under the stars. This luxury beach playground in Bali offers the perfect blend of leisure and excitement. 
+-Experience Karma Beach
+
+
+SHL: 3 Monkeys Kid’s Club 
+
+
+Every member of the family is cared for at Karma Kandara. Our Three Monkeys Kids Club creates adventures and fun, educational activities for kids aged 4 to 12 years, including beachcombing, kite making, crafts and swimming. Teens and parents won’t miss out on the fun as we offer a chance to explore Bali with a range of exciting guided excursions.
+-Book Now
+
+
+
+
+SHL: Schooners Sports Bar
+Schooners Sports Bar at Mentari Residences offers all the latest sports entertainment in a convivial setting perfect for laid back socialising. . Whether you're looking to enjoy an exciting game day or simply to unwind with friends in a friendly pub style atmosphere, Schooners offers the ideal setting. Open daily from 5 to 11 pm, the bar also features a daily Member Exclusive Happy Hour from 10 to 11 pm, ensuring there's always something special to look forward to.
+- Sport Calendar 
+
+
+SHL: Water Sports 
+Experience some of the world’s best surf breaks, or enjoy kayaking on the turquoise waves, stand-up paddleboarding, or snorkeling in the shallow waters alongside friendly sea turtles. Dive in—the water’s perfect for your next adventure!
+-Book Now
+
+
+SHL: Gym 
+Workout in our fully equipped treehouse-style teakwood gym, where the latest fitness machines are complemented by stunning views of  lush tropical jungle. For added motivation, our team can design a bespoke fitness program tailored to your goals, including access to Peloton workouts, ensuring an inspiring and personalized  experience throughout your stay.
+-Book Now
+
+
+SHL: Muay Thai
+Experience the excitement of Muay Thai with Karma Kandara’s daily classes from 8 to 9 am. More than just a workout, these sessions offer an immersive journey into the ancient art of Thai boxing. Combining traditional techniques with modern fitness, the classes provide an invigorating experience suitable for all skill levels. Led by expert instructors, each session includes dynamic drills and pad work, designed to push your limits while enhancing endurance, focus, and resilience.
+-Book Now
+
+
+SHL: Activities 
+Experience feng shui energy at Karma Kandara, where every moment is designed to enrich your stay. Start your day with a visit to a traditional fish market, followed by yoga on the beach at sunset. Learn to prepare a Balinese feast with our chefs, and later, dance beneath the stars to the beats of an international guest DJ. At Karma Kandara, each experience is crafted to create unforgettable memories.
+-Book Now
+
+
+
+
+
+
+HL: Wedding 
+Karma Kandara is the perfect setting for the ultimate destination wedding, with its stunning cliffside location and award-winning amenities - from private beach club to cliff-hanging spa to an incredible fine dining restaurant.  Karma Kandara is the perfect choice for unforgettable weddings of every size. Our dedicated team of professional wedding planners have the passion, expertise and experience  to customize these exceptional spaces, ensuring a truly memorable and unique celebration in one of the most magical settings on the planet
+
+
+SHL: Cliff Bali Wedding Poolside 
+
+Located beside our iconic infinity pool, the Cliff Wedding venue at Karma Kandara provides spectacular views of the Indian Ocean. It's an ideal setting for couples seeking a unique and creatively adorned space for their special day.
+- Download Wedding Brochure 
+
+
+
+
+HL: Beautiful Bali Beach Wedding 
+
+
+The ultimate in romantic seclusion, Karma Beach offers soft white sand, gently lapping Indian Ocean waves, beachside dining and an enchanting yet casually elegant ambience after dusk. An idyllic tropical setting for couples seeking a relaxed yet luxurious wedding experience, embracing the essence of ‘barefoot luxury'.
+- Download Wedding Brochure 
+
+
+
+
+
+
+SHL: Bali Wedding in Water (WOW)
+Situated over our main pool, this exclusive venue features a transparent stage, creating the mesmerising illusion of walking on water. Experience our one-of-a-kind "W.O.W." (Wedding on Water), where you’ll exchange vows atop a floating altar on our infinity pool, surrounded by the breathtaking beauty of the Indian Ocean. A literal and unforgettable "Wedding on Water."
+- Download Wedding Brochure 
+
+
+
+
+SHL: Grand Residence Wedding
+Nestled within our Grand Residence Five-Bedroom Pool Villa atop limestone cliffs overlooking the Indian Ocean, this exclusive venue offers breathtaking ocean panoramas and is perfectly designed for those seeking a private, intimate wedding experience. With luxury amenities including a home theatre, a dedicated beauty room for spa treatments, and a private jacuzzi, every detail is thoughtfully curated to ensure you and your guests enjoy an unparalleled level of comfort and sophistication.
+- Download Wedding Brochure 
+
+
+
+
+SHL: Stunning Sunset Dinner 
+
+
+Indulge in breathtaking sunset dining at our poolside venue, meticulously designed for you to relish the captivating sunset vistas over the Indian Ocean from our stunning cliffside location.
+- Download Wedding Brochure 
+
+
+
+
+
+
+SHL: Celebration Dining
+
+
+When commemorating a milestone birthday, anniversary, or other special occasion, you may choose between two distinctive dining experiences: di Mare Restaurant or Karma Beach, each offering its unique ambience and charm. 
+- Download Wedding Brochure 
+
+
+
+
+
+
+HL: Location 
+
+
+Karma Kandara
+ Jalan Villa Kandara Banjar Wijaya Kusuma Ungasan Bali, 80362, Indonesia
+
+
+Contact Number
+ +62 (0361) 848 2202 
+
+
+WhatsApp
+ +62 811 3810 7114 
+
+
+Email
+ res@karmaresorts.com
+
+
+
+
+
+
+The iconic trendsetter, Karma Kandara defines Bali's cosmopolitan pool villa and beachfront lifestyle
+* Book Now 
+
+
+
+
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorize Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------
+HL: Terms & Conditions
+
+
+
+
+1. Travel details, requests for airport transfers or any other special requests should be submitted to Karma Concierge at least 14 working days prior to check-in.
+2. Bookings can be cancelled a minimum of 30 days prior to check- in date and rebooked up to a maximum of 3 times. More than 3 cancellations of a confirmed reservation, may result in the loss of the points used for the booking.
+3.  Although Karma Concierge does not organize visas or other matters pertaining to travel, a letter may be issued upon request for visa purposes.
+4. The Resorts reserve the right to ask for a security deposit upon check in or alternatively to levy a fee on checkout to cover damages or inappropriate usage of the apartments. 
+5. For International reservations, service or municipality taxes may be applicable on check - in. For more information kindly contact your Karma Concierge.
+6.  It is mandatory that members/guests follow the swimming pool rules and use appropriate swimming attire as set out by the Club.
+7. In the event of any unforeseen circumstances, the Club reserves the right to offer alternate accommodation or different reservation/s from the ones booked.
+8.  The maximum permitted occupants in the apartments/units are: Studio /Hotel Unit: 2 adults and 1 child up to the age of 10, One bedroom apartment: 4 adults and 2 children up to the age of 10, Two bedroom apartment: 6 adults and 2 children up to the age of 10 & Two bedroom Combination apartment: 8 adults and 4 children up to the age of 10. 
+9.  Club members understand and confirm that all reservations for members or guest’s certificates can be confirmed only if the Annual Management charges are current. 
+10.  Club Members requesting a guest certificate are obliged to provide details of their guest/s to the reservation office prior to confirming a guest booking. We have read and understand the Terms and Conditions as outlined on this Vacation Confirmation. 
+11. As per law it is mandatory for all guests to provide an ID proof upon check-in at the reception (e.g. Aadhar card, Driver’s license, passport copy). The Club reserves the right to refuse admission if proper identification matching the reservation letter also to be provided on check in is not available.
+12.  Kindly be advised that the Karma Concierge may refuse to issue either a confirmation voucher or and a guest certificate, if all correct details are not provided to the Concierge department, inclusive of, but not limited to, PAN card details. 
+13. Allocation of preferred units or apartments are subject to availability and at the time of check in. 
+14. Early check in and late check outs are also subject to availability and occupancy levels. 
+15. Members that are being accompanied by pets have to follow the Club rules and have to provide the reservation team with the appropriate documentation. In consideration of other guests, only 1 pet per apartment/unit is allowed. Due to the limited pet friendly number of units such reservations are subject to availability. 
+16. The Club does not provide any type of accommodation for drivers or any ancillary service providers. For more information, kindly contact your Karma Concierge. 
+17. Drones - The use of drones is strictly prohibited on any Karma property without prior authorisation. This is to maintain the exclusivity and privacy of our guests, and only authorised personnel are permitted to capture footage using drones. 
+18. Speakerphone Usage - The use of speakerphone is not permitted in any public areas of the hotel, except within the privacy of your own room.

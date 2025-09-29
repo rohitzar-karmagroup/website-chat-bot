@@ -1,0 +1,229 @@
+﻿KARMA PANALEE
+
+
+Meta Page Title:
+Karma Panalee, Koh Samui, Thailand
+
+
+Meta Description:
+Immerse yourself in the natural beauty and relaxed pace of island life. Perched along the tranquil Bang Po Beach, Karma Panalee is your...
+
+
+
+
+Banner Headline (3/5 words):
+HL: Karma Panalee
+
+
+Koh Samui, Thailand 
+
+
+Web Intro (max 120 words):
+Immerse yourself in the natural beauty and relaxed atmosphere of island life at Karma Panalee. Nestled along the peaceful Bang Por Beach, this resort in Koh Samui, Thailand offers a home away from home, surrounded by lush tropical gardens and just a short walk from the serene Mae Nam Beach. The ultimate haven for exploring the magical island of Samui.
+Keywords: island, Karma Panalee, Bang Po Beach, Mae Nam Beach, island of Samui, resort in Koh Samui Thailand
+
+
+App Intro (max 50 words):
+Immerse yourself in the natural beauty of island life at  Samui Island Resort, Karma Panalee. Located along peaceful Bang Po Beach and surrounded by lush gardens, this serene retreat is just a short walk from Mae Nam Beach, perfect for exploring the magical island of Samui.
+Keywords: island, Karma, Bang Po Beach, Mae Nam Beach, island of Samui, Samui Island Resort 
+
+
+
+
+HL: Accommodation 
+Blending modern comfort with traditional Thai charm, Karma Group Members can choose from cosy bungalows or well-appointed rooms, each designed to complement the surrounding environment. Every unit features contemporary amenities, including air conditioning,  flat-screen TVs, and complimentary Wi-Fi, ensuring a relaxing and convenient stay.
+Keywords:  traditional Thai, Karma, bungalows , flat-screen TV,  Wi-Fi
+
+
+Room Category 01 max 50 words :
+SHL: Two Bedroom Bungalow Sleep Four
+Unit Code
+	Adults
+	Children (under 10)
+	TBB
+	4
+	1
+	
+This spacious bungalow offers private retreats for all, featuring two separate bedrooms that share a single en-suite bathroom. Gather in the shared living area to plan your day’s adventures or unwind after exploring.
+Amenities:
+* Two separate bedrooms 
+* 1 En-suite bathroom
+* Air-conditioned 
+* Flat-screen TV
+Keywords: bungalow, en-suite
+
+
+Room Category 02 max 50 words :
+SHL: One Bedroom Combination Sleep Four
+Unit Code
+	Adults
+	Children (under 10)
+	T1C
+	4
+	2
+	
+Experience tranquility with our One Bedroom Combination, featuring two spacious rooms connected by a door. Each room is equipped with one double bed and twin beds, while the large bathrooms provide a serene space for relaxation. Ideal for families or groups of friends travelling together.
+Amenities:
+* Two spacious rooms (one double bed and twin bed)
+* En-suite bathroom
+* Air-conditioned 
+* Flat-screen TV
+Keywords: double bed, bathroom, 
+
+
+Room Category 03 max 50 words :
+SHL: One Bedroom Bungalow Sleep Two
+Unit Code
+	Adults
+	Children (under 10)
+	OBB
+	2
+	1
+	
+Unwind in the comfort of our One-Bedroom Bungalow. This charming retreat features a private entrance, a cozy living room, and a separate bedroom with an en-suite bathroom, offering a peaceful and relaxing escape.
+Amenities:
+* Private entrance
+* Living room
+* Separate bedroom
+* En-suite bathroom
+* Air-conditioned 
+* Flat-screen TV
+Keywords: Bungalow, living room, en-suite, 
+
+
+Room Category 04 max 50 words :
+SHL: Bungalow Garden View Sleep Two
+Unit Code
+	Adults
+	Children (under 10)
+	BGV
+	2
+	1
+	Our Garden View Bungalows feature a cosy bedroom, a spacious bathroom, and a private terrace with beautiful garden views. The perfect setting for relaxation and reconnecting with nature.
+Amenities:
+* Cosy bedroom
+* Private terrace
+* Spacious bathroom
+* Air-conditioned 
+* Flat-screen TV
+Keywords: Bungalow,  bedroom, bathroom, private terrace, beautiful garden,  nature.
+
+
+Room Category 05 max 50 words :
+SHL: Hotel Unit Double Sleep Two
+Unit Code
+	Adults
+	Children (under 10)
+	HU DBL
+	2
+	1
+	
+Immerse yourself in luxury with our Hotel Unit. This spacious accommodation features an elegant room with a plush queen-sized bed and a large bath, offering the perfect setting to relax and unwind in ultimate comfort.
+Amenities:
+* Queen-sized bed
+* Large bath 
+* Air-conditioned 
+* Flat-screen TV
+Keywords:  luxury , queen-sized bed
+
+
+Room Category 06 max 50 words :
+SHL: Hotel Unit Double Pool Access
+Unit Code
+	Adults
+	Children (under 10)
+	HUD Pool
+	2
+	1
+	
+Indulge in ultimate comfort with our ground-floor Hotel Unit. This spacious room features a luxurious queen-sized bed and a large bath, providing a perfect space to relax and unwind in style.
+Amenities:
+* Queen-sized bed
+* Large bath 
+* Air-conditioned 
+* Flat-screen TV
+Keywords:  queen-sized bed
+
+
+Room Category 07 max 50 words :
+SHL: Hotel Unit Twin Sleep Two
+Unit Code
+	Adults
+	Children (under 10)
+	HU TWIN
+	2
+	1
+	
+Welcome to our serene Hotel Unit Twin, a perfect blend of traditional Thai elegance and modern comfort. This inviting space features two plush twin beds, and the en-suite bathroom serves as a sanctuary, complete with a large bath for ultimate relaxation.
+Amenities:
+* Two plush twin beds
+* En-suite bathroom
+* Air-conditioned 
+* Flat-screen TV
+
+
+Keywords:  traditional Thai , twin beds, en-suite, sanctuary
+
+
+HL: Cuisine 
+Karma Panalee’s bar and restaurant offers a delightful selection of Thai and international cuisine for breakfast, lunch, and dinner, complemented by signature cocktails and fine wines. Enjoy happy hours and weekly events for an enhanced dining experience.
+Keywords: Karma Panalee,  bar, restaurant, international cuisine , cocktails, fine wine,  happy hours
+(max 50 words) :
+SHL: Restaurant & Bar 
+The on-site restaurant offers a delicious selection of Thai and international dishes made with fresh, locally sourced ingredients. Members can dine in the open-air seating area, surrounded by the beauty of tropical gardens.
+Keywords:   international dishes 
+HL: Facilities 
+At Karma Panalee, we offer an array of premium services to make your stay exceptional.
+
+
+Category 01 max 50 words :
+SHL: Karma Two Palms Beach 
+Nestled on Koh Samui’s shores, Karma Two Palms Beach blends luxury with world-class entertainment. Enjoy curated watersports, wellness activities, and a globally inspired menu featuring Thai and international cuisine. The club combines Asian service excellence with Mediterranean warmth, offering the perfect setting for sun-filled days, sunsets, and stylish evenings.
+Keywords:   luxury, world-class entertainment, watersports, international cuisine, sunsets
+
+
+
+
+Category 02 max 50 words :
+SHL: Resort Facilities
+The resort offers a range of facilities designed for relaxation and enjoyment. The expansive outdoor swimming pool, surrounded by sun loungers and palm trees, is ideal for a refreshing dip or a leisurely afternoon. For those seeking adventure, the resort also arranges activities like snorkelling, kayaking, and island tours.
+Keywords: swimming pool, sun loungers, palm trees,  snorkelling, kayaking,
+
+
+HL: Location 
+Karma Panalee
+73/9 Moo 6 Maenam Koh Samui,Suratthani,Thailand 
+
+
+Whatsapp
++66 61 714 2388
+
+
+
+
+
+
+With its convenient location, the resort offers easy access to the island's top attractions
+- Book Now 
+
+
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorize Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------

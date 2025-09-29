@@ -1,0 +1,365 @@
+﻿KARMA BAVARIA 
+
+
+Meta Page Title:
+Schliersee hotel: Book a 4 Star Luxury Resort in Bavaria, Germany
+
+
+
+
+Meta Description:
+Enjoy the natural beauty of this Schliersee hotel, with Skiing & snowboarding in winter or mountain hikes, bike riding & paragliding in summer. Book Now 
+
+
+Banner Headline (3/5 words):
+HL: Karma Bavaria 
+
+
+Schlier, Germany
+
+
+Web Intro (max 120 words):
+Nestled in a stunning alpine setting, Karma Bavaria offers year-round natural beauty, extraordinary experiences, and peaceful relaxation. This hotel in Schliersee brings exciting adventures, including mountain hikes, bike rides, and paragliding, all waiting to be explored. Afterwards, unwind with fine food, wellness, comfort, and luxury. We are also dog-friendly.
+Keywords:  Karma Bavaria, paragliding, dog-friendly, hotel in Schliersee
+
+
+App Intro (max 50 words):
+Set in a picturesque alpine location, Karma Bavaria offers year-round natural beauty and exciting adventures like hiking, biking, and paragliding. Afterwards, enjoy fine food, wellness, and luxury at this Bavaria hotel. We are also dog-friendly.
+Keywords: Karma Bavaria, paragliding, dog-friendly, Bavaria hotel
+
+
+HL: Accommodation 
+With freshly renovated guest rooms, Karma Bavaria elevates boutique resort hospitality, offering stylish, high-end accommodations tailored to the needs of today’s discerning guests.
+Keywords: Karma bavaria, boutique resort
+
+
+Room Category 01 max 50 words :
+SHL: Deluxe Double
+Unit Code
+	Adults
+	Children (under 10)
+	00_DX_DBL
+	2
+	1
+	
+Blending contemporary chic with classic charm, this stylish alpine retreat for two features a cosy double bed and a luxurious bathroom. At 20m², it offers all the comforts of a luxury hotel, including complimentary Wi-Fi, luxurious bathrobes, a flat-screen LCD TV, premium toiletries, and a hairdryer.
+Amenities:
+* Double bed
+* En-suite bathroom
+* Wi-Fi
+* Flat Screen LCD TV
+* Premium toiletries
+* Hairdryer
+* Air-conditioned
+Keywords: luxury hotel, contemporary, LCD TV
+
+
+Room Category 02 max 50 words :
+SHL: Deluxe Room
+Unit Code
+	Adults
+	Children (under 10)
+	14_DX_ROOM
+	3
+	1
+	This stylish alpine retreat for two to three guests features a fully-equipped kitchenette, a relaxing sitting area with a sofa bed, and a cosy balcony with sweeping mountain views. At 28m², it offers all the comforts of a luxury hotel, including complimentary Wi-Fi, luxurious bathrobes, a flat-screen LCD TV, premium toiletries, and a hairdryer.
+Amenities:
+* Sofa bed
+* Fully equipped kitchenette
+* Balcony
+* Wi-Fi
+* Flat Screen LCD TV
+* Premium toiletries
+* Hairdryer
+* Air-conditioned
+Keywords: luxury hotel, mountain , LCD TV,balcony 
+
+
+Room Category 03 max 50 words :
+SHL: Studio seluxe
+Unit Code
+	Adults
+	Children (under 10)
+	15_DX_STUDIO
+	4
+	1
+	
+Deluxe Studio offers a fully-equipped kitchen, a luxurious bathroom, a relaxing lounge with a sofa bed, and a cosy balcony with stunning mountain views for two to four guests. At 35m², it includes all the comforts of a luxury hotel: complimentary Wi-Fi, luxurious bathrobes, a flat-screen LCD TV, premium toiletries, and a hairdryer.
+Amenities:
+* Sofa bed
+* Balcony
+* Wi-Fi
+* Flat Screen LCD TV
+* Premium toiletries
+* Hairdryer
+* Air-conditioned
+Keywords: luxury hotel, mountain , LCD TV,balcony 
+Room Category 04 max 50 words :
+SHL: One Bedroom Deluxe Suite 
+Unit Code
+	Adults
+	Children (under 10)
+	10_DX_SUI1
+	4
+	1
+	
+This sleek, spacious double-bedroom suite for four in our main building blends modern luxury with Bavarian heritage, evoking a cozy mountain-lodge atmosphere. Featuring natural wood, earthy tones, and stylish comfort, it offers a generous living space with a plush sofa bed and designer kitchen. At 50m², it includes alpine mountain views, complimentary Wi-Fi, tea and coffee making facilities, luxurious bathrobes, a flat-screen LCD TV, room service menu, premium toiletries, and a hairdryer.
+Amenities:
+* Sofa bed
+* Double bed
+* Designer Kitchen
+* Wi-Fi
+* Flat Screen LCD TV
+* Premium toiletries
+* Hairdryer
+* Air-conditioned
+Keywords: modern, luxury, Bavarian heritage, natural wood, designer kitchen, mountain
+
+
+Room Category 05 max 50 words :
+SHL:  Two Bedroom Deluxe Suite 
+Unit Code
+	Adults
+	Children (under 10)
+	12_DX_SUI2
+	6
+	2
+	
+With crisp modern design and bespoke alpine touches, our spacious two-bedroom, six-person family suite in the main building offers laid-back luxury. Rustic cowhides, woven textiles, faux antlers, and wooden details create a fresh, elevated atmosphere. The 70m² suite includes ample living space, a plush sofa bed, and a designer kitchen, along with alpine mountain views, complimentary Wi-Fi, tea and coffee making facilities, luxurious bathrobes, a flat-screen LCD TV, room service menu, premium toiletries, and a hairdryer.
+Amenities:
+* 2 Bedroom
+* Sofa bed
+* Double bed
+* Designer Kitchen
+* Wi-Fi
+* Flat Screen LCD TV
+* Premium toiletries
+* Hairdryer
+* Air-conditioned
+Keywords: modern, luxury, woven textiles, faux antlers, designer kitchen, mountain
+Room Category 06 max 50 words :
+SHL: Three Bedroom Deluxe Combination Suite 
+Unit Code
+	Adults
+	Children (under 10)
+	17_DX_COMBI
+	8
+	2
+	
+Our unique three-bedroom, eight-person deluxe suite in the main building blends modern design with bespoke alpine vibes, offering laid-back luxury. Rustic cowhides, woven textiles, faux antlers, and wooden details create a fresh, elevated atmosphere. Spanning 100m², the suite features ample living space, a plush sofa bed, and a designer kitchen. Enjoy alpine mountain views, complimentary Wi-Fi, tea and coffee making facilities, luxurious bathrobes, a flat-screen LCD TV, room service menu, premium toiletries, and a hairdryer.
+Amenities:
+* 3 Bedroom
+* Sofa bed
+* Double bed
+* Designer Kitchen
+* Wi-Fi
+* Flat Screen LCD TV
+* Premium toiletries
+* Hairdryer
+* Air-conditioned
+Keywords: modern, luxury, woven textiles, faux antlers, designer kitchen, mountain
+
+
+Room Category 07 max 50 words :
+TO BE REMOVED
+SHL: Deluxe Apartment Studio  
+Unit Code : 09_DX_APTS 
+Fusing contemporary chic with classic heritage, this stylish alpine retreat for two offers luxury hotel comforts, including a fully-equipped high-end kitchen and bathroom, a relaxing lounge area, and a private sun terrace with sweeping mountain views. At 35m², it features alpine mountain views, complimentary Wi-Fi, tea and coffee making facilities, luxurious bathrobes, a flat-screen LCD TV, room service menu, premium toiletries, and a hairdryer.
+ Amenities:
+* Lounge area
+* Private sun terrace
+* Wi-Fi
+* Flat Screen LCD TV
+* Premium toiletries
+* Hairdryer
+* Air-conditioned
+Keywords:  luxury hotel ,heritage, 
+
+
+Room Category 08 max 50 words :
+TO BE REMOVED
+SHL: Deluxe Apartment 1 Bedroom
+Unit Code : 11_DX_APT1
+This sleek, spacious double-bedroom apartment for four blends luxurious modern design with Bavarian heritage, evoking a cozy mountain-lodge feel. Featuring natural wood, earthy tones, and stylish comfort, it offers a generous living space with a plush sofa bed, designer kitchen, and private sun terrace. At 50m², it includes alpine mountain views, complimentary Wi-Fi, tea and coffee making facilities, luxurious bathrobes, a flat-screen LCD TV, room service menu, premium toiletries, and a hairdryer.
+ Amenities:
+* Double bedroom
+* Lounge area
+* Sofa bed
+* Private sun terrace
+* Wi-Fi
+* Flat Screen LCD TV
+* Premium toiletries
+* Hairdryer
+* Air-conditioned
+Keywords:  modern, luxury hotel, Bavarian heritage, natural wood, mountain
+
+
+Room Category 09 max 50 words :
+TO BE REMOVED
+SHL: Deluxe Apartment 2 Bedrooms
+Unit Code : 13_DX_APT2
+Our spacious two-bedroom, six-person family suite offers laid-back luxury. Rustic cowhides, woven textiles, faux antlers, and wooden details create an elevated atmosphere throughout this elegant space, which includes ample living area, plush sofa bed, designer kitchen, and a private sun terrace with magnificent views. At 70m², it features alpine mountain views, complimentary Wi-Fi, tea and coffee making facilities, luxurious bathrobes, a flat-screen LCD TV, room service menu, premium toiletries, and a hairdryer.
+Amenities:
+* 2 bedroom
+* Lounge area
+* Designer kitchen
+* Sofa bed
+* Private sun terrace
+* Wi-Fi
+* Flat Screen LCD TV
+* Premium toiletries
+* Hairdryer
+* Air-conditioned
+Keywords: luxury, woven textiles, faux antlers, designer kitchen, mountain
+
+
+Room Category 10 max 50 words :
+SHL: Two Bedroom Deluxe Suite Maisonette
+Unit Code
+	Adults
+	Children (under 10)
+	17_DX_APT2_M
+	6
+	2
+	
+This unique maisonette apartment offers two spacious bedrooms and an open bedroom on the balcony. Perfect for up to six guests, it provides laid-back luxury for families or groups of friends. Rustic cowhides, woven textiles, faux antlers, and wooden details create an elevated atmosphere throughout, while the ample living space includes a plush sofa, designer kitchen, and a private sun terrace with magnificent views. Spanning 80m², it’s the ideal alpine retreat.
+Amenities:
+* 2 bedroom
+* 1 open bedroom
+* Designer kitchen
+* Sofa 
+* Private sun terrace
+* Air-conditioned
+Keywords: luxury, woven textiles, faux antlers, designer kitchen
+HL: Cuisine 
+From themed buffets to elegant four-course candlelit dinners, our chefs delight in offering culinary surprises, blending seasonal specialities with creative twists on traditional Bavarian and Mediterranean dishes.
+Keywords: buffets, candlelit dinners, traditional Bavarian and Mediterranean dishes
+
+
+(max 50 words) :
+SHL: Karmasee Restaurant
+Karmasee offers the best of Bavarian cuisine, blending traditional dishes with international favourites. Using fresh, locally sourced produce, each meal is complemented by delicious Bavarian beer or German and Austrian wines. During the warmer months, enjoy dining al fresco in our scenic beer garden, where the full range of unique culinary experiences will delight all five senses.
+* Book Now
+-Karmasee Restaurant Menu
+-Tastes of India Menu
+-Wine Menu
+-Dessert Menu
+Keywords: Bavarian cuisine, Bavarian beer, Austrian wines
+
+
+HL: Facilities
+
+
+Whether it's a relaxing swim in the heated pool, a fun family bowling game, or a rejuvenating spa treatment, the choice is yours at Karma Bavaria.
+Keywords: bowling, spa treatment, Karma Bavaria
+Category 01 max 50 words :
+SHL: Games Room 
+Our games room features a nine-pin bowling alley, along with billiards, darts, ping-pong, and Kicker. Kids can enjoy indoor and outdoor playgrounds, while those looking to relax can slip into slippers and unwind with a good book in our cozy library.
+Keywords: bowling, ping-pong
+
+
+Category 02 max 50 words :
+SHL: Karma Collections
+Take control of the music and get the party started with our exclusive Karma vinyl collection. Be the DJ for the night!
+
+
+Category 03 max 50 words :
+SHL: Swim and Relax
+Relax with a dip in the heated pool featuring a soothing waterfall, or unwind in the open-air soaking pool, sauna, or steam bath.
+Keywords: waterfall, steam bath
+
+
+Category 04 max 50 words :
+SHL: Wolpertinger Bar
+A refreshing beer, bespoke cocktails, warming mulled wine, or indulgent hot chocolate awaits you at the Wolpertinger bar. Named after a mythological hybrid said to roam Bavaria’s alpine forests, the bar offers a cozy atmosphere for a delightful evening.
+Keywords: cocktails, bar, hot chocolate 
+
+
+Category 05 max 50 words :
+SHL: Conference Package 
+Karma Bavaria’s conference facilities, along with our experienced and friendly team, are dedicated to ensuring your event exceeds expectations. From your initial enquiry to the big day, we offer 5 versatile conference rooms and a range of customizable menus to suit any group or individual needs.
+-Download brochure
+-Book Now
+Keywords: Karma Bavaria 
+
+
+Category 06 max 50 words :
+SHL: Karmasee Restaurant 
+
+
+Experience the best of Bavarian cuisine at Karmasee, where traditional dishes meet international favorites. Bavaria offers unique culinary experiences that delight all five senses, and we use fresh, locally sourced produce to create memorable meals. Complement your dining with delicious Bavarian beer or fine German and Austrian wines. During the warmer months, enjoy al fresco dining in our scenic beer garden.
+Keywords: Bavarian cuisine, Bavarian beer, Austrian wines
+
+
+HL: Wedding
+
+
+Set in a fairytale alpine location, Karma Bavaria is the perfect place to say ‘I do’. Personalise your special day with unique touches, like motorboat lake tours and welcome drinks in the gardens. Share your dream wedding with us, and we’ll bring it to life.
+-Download Wedding Brochure 
+-More Details
+Keywords:  Karma Bavaria, motorboat, lake, wedding 
+HL: Events Meetings & Conferences 
+
+
+Mankind thrives on personal communication. Whether you're working with small decision-making groups or need to share information with a larger audience, our venues are designed to meet your needs. 'Flori Stueberl' and 'Leo Stueberl' are perfect for teamwork and interactive sessions for 2 to 20 people. For larger gatherings, the 'Wendelstein’ conference room, with natural daylight and mountain views, offers ample space for up to 60 participants, complete with all standard technical equipment.
+-Download Brochure 
+-More Details
+Keywords: daylight, mountain 
+
+
+
+
+HL: Location 
+
+
+Karma Bavar
+Kirchbichlweg 18, 83727 Schliersee 
+Germany
+
+
+
+
+Resort Direct Dial
++49 (0)80 26 60 80
+
+
+
+
+Whatsapp
++49 15233643960
+Email
+reservation@karmabavaria.com
+
+
+
+
+Karma Bavaria offers stunning natural beauty, exceptional experiences and tranquil retreat all year round.
+- Book Now 
+
+
+
+
+
+
+
+
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorise Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------

@@ -1,0 +1,243 @@
+﻿KARMA UTOPIA
+
+
+
+
+Meta Page Title:
+Karma Utopia, Manali, India - Karma Group
+
+
+
+
+Meta Description:
+A modern resort hotel situated in the heart of Manali facing the pristine Kullu valley amidst towering cedar trees and snow capped mountain peaks in the distance.
+Banner Headline (3/5 words):
+
+
+HL: Karma Utopia
+
+
+Manali, India 
+
+
+Web Intro (max 120 words):
+A modern luxury resort hotel located in the heart of Manali, offering stunning views of the pristine Kullu Valley, surrounded by towering cedar trees and snow-capped mountain peaks. This Kullu Manali resort is within walking distance of the historic 15th-century Hadimba Devi Temple.
+Keywords: modern luxury resort hotel, Manali, Kullu Valley, Hadimba Devi Temple, Kullu Manali resort
+
+
+
+
+App Intro (max 50 words):
+A modern  resort hotel in Manali, offering views of the Kullu Valley, cedar trees, and snow-capped peaks. It’s also within walking distance of the 15th-century Hadimba Devi Temple.
+Keywords: modern luxury resort hotel, Manali, Kullu Valley, Hadimba Devi Temple
+
+
+
+
+
+
+
+
+HL: Accommodation
+
+
+This luxury resort in Manali offers rooms featuring modern comforts such as hot and cold air conditioning, wooden flooring, Victorian-style furniture, plush beds, and stunning views. Amenities include electric kettles, mini refrigerators, large wardrobes, and  LED TVs.
+Keywords: Victorian-style furniture, Luxury resort in Manali
+
+
+
+
+
+
+Room Category 01 max 50 words :
+SHL: Hotel Unit
+Unit Code
+	Adults
+	Children (under 2)
+	HU
+	2
+	0
+	This modern comfort rooms feature a queen-size double bed, lounge chairs, hot and cold air conditioning, en-suite bathroom, and modern amenities, including an electric kettle, mini refrigerator, large wardrobe, and a  LED TV.
+Amenities:
+* Queen size double bed
+* Lounge chairs
+* LED TV
+* Hot & Cold air conditioning
+* Electric kettle
+* Mini fridge
+* En-suite bathroom 
+
+
+Keywords: en- suite, double bed
+
+
+
+
+Room Category 02 max 50 words :
+SHL: Mountain View Unit 2+ 2 kids
+Unit Code
+	Adults
+	Children (under 10)
+	MVU(2+2)
+	2
+	1
+	
+Unit Code : MVU(2+1)
+3 guests (2+1)
+This spacious room features a queen-size double bed, pull-out sofa bed, en-suite bathroom, hot and cold air conditioning, and modern amenities including an electric kettle, mini refrigerator, large wardrobe, and a  LED TV.
+Amenities:
+* Queen size double bed
+* Pull-out sofa bed
+*  LED TV
+* Hot & Cold air conditioning
+* Electric kettle
+* Mini fridge
+* En-suite bathroom 
+
+
+Keywords: en- suite, double bed
+
+
+
+
+
+
+
+
+Room Category 03 max 50 words :
+SHL: Hotel Unit Max 1 Child
+Unit Code
+	Adults
+	Children 
+	HUC
+	2
+	1
+	
+
+This well-appointed room features a double bed and a walk-in shower. It includes hot & cold air-conditioning, a  LED TV, electric kettle, mini fridge, and wardrobe. The resort offers Wi-Fi, a multicuisine restaurant, games room, Swimming pool, spa, laundry services, and a private museum (entry ticket applicable).
+Amenities:
+* Double bed
+* Walk in shower
+*  LED TV
+* Hot & Cold air conditioning
+* Electric kettle
+* Mini fridge
+* Wardrobe
+Keywords: mini fridge, double bed
+
+
+
+
+
+
+Room Category 04 max 50 words :
+SHL: Mountain View Unit sleeps 2
+Unit Code
+	Adults
+	Children 
+	MVU(2)
+	2
+	0
+	
+
+This comfortable  room features a double bed and a walk-in shower. It includes hot & cold air-conditioning, a  LED TV, electric kettle, mini fridge, and wardrobe. The resort offers Wi-Fi, a multicuisine restaurant, games room, swimming pool, spa, laundry services, and a private museum (entry ticket applicable).
+Amenities:
+* Double bed
+* Walk in shower
+* LED TV
+* Hot & Cold air conditioning
+* Electric kettle
+* Mini fridge
+* Wardrobe
+Keywords: mini fridge, double bed
+
+
+
+
+
+
+HL: Cuisine
+Himachali cuisine reflects the region’s rich culture and traditions, from the Kulvi Dhaam, a variety of local dishes cooked in copper pots for special occasions, to the delicious ‘Siddu,’ a steamed bun filled with minced walnuts and local vegetables. 
+Keywords: Himachali cuisine
+
+
+max 50 words :
+SHL: Restaurant
+An all-day dining restaurant offering authentic Himachali cuisine alongside a variety of Pan-Indian dishes.
+Keywords: Himachali cuisine, Pan- Indian dishes
+
+
+
+
+HL: Facilities
+
+
+Resort facilities include a 50-cover all-day dining restaurant and a swimming pool.
+
+
+Category 01 max 50 words :
+SHL: Swimming Pool
+Make the most of your time at Karma Utopia by relaxing in the cool swimming pool while enjoying panoramic views.
+Keywords: Karma Utopia
+
+
+Category 02 max 50 words :
+SHL: Restaurant
+An all-day dining restaurant offering authentic Himachali cuisine alongside a variety of Pan-Indian dishes.
+Keywords: Himachali cuisine, Pan- Indian dishes
+
+
+
+
+
+
+HL: Location 
+
+
+Karma Utopia
+Utopia Resorts Near Hadimba Temple
+Manali Distt Kullu HP -  175131
+
+
+
+
+
+
+Resort Telephone
++91-8956038794
++91-8091005800
+
+
+
+
+
+
+Email
+karma.manali@karmagroup.com
+fo.utopia@karmagroup.com 
+
+
+Experience Karma, nestled in the serene embrace of the mountains.
+- Book Now 
+
+
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorise Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------

@@ -1,0 +1,311 @@
+﻿KARMA MINOAN
+
+
+Meta Page Title:
+Book Karma Minoan Resort on the bay of Mirabello, Agios Nikolaos, Crete
+
+
+
+
+Meta Description:
+Experience the beauty of Crete while staying at Agios Nikolaos in your idyllic escape overlooking the bay of Mirabello. Book Karma Minoan today.
+
+
+Banner Headline (3/5 words):
+HL: Karma Minoan
+
+
+Crete, Greece
+
+
+Web Intro (max 120 words):
+Karma Minoan features 23 sea-facing rooms that embody the quintessential Greek island aesthetic. With whitewashed walls, Aegean blue interior touches, and, most notably, stunning sea views from its hills in Gulf of Mirabello, this resort in Crete, Greece offers a serene and captivating environment. 
+This property is part of Karma Group’s award-winning Lifestyle and Leisure Club.
+Keywords:  Greek island, Vathy, Karma Minoan, resort in Crete Greece
+
+
+App Intro (max 50 words):
+Karma Minoan, a seaside resort and spa in Crete,  features  23 sea-facing rooms blend whitewashed walls, Aegean blue accents, and breathtaking sea views, creating a serene and relaxing atmosphere built into the hill of Vathy.
+Keywords:  Vathy, Karma Minoan, Seaside resort and spa Crete
+
+
+HL: Accommodation
+Karma Minoan’s holiday apartments embrace the Greek Island aesthetic with whitewashed walls, Aegean Blue accents, and natural materials. All apartments face the sea and offer modern conveniences for a comfortable Cretan stay. Step onto your private balcony to enjoy panoramic views of Mirabello Bay, just a 5-minute drive from the stylish town of Agios Nikolaos.
+Keywords: Karma Minoan, Greek Island,  Mirabello Bay, Agios Nikolaos
+
+
+Room Category 01 max 50 words :
+SHL: Studio Units (why in plural? Pls change to Studio)
+Unit Code
+	Adults
+	Children (under 10)
+	T0
+	2
+	1
+	
+The Premium Room is ideal for corporate retreats, couples, or solo travelers, featuring a king-size bed and outdoor seating with Aegean Sea views. 
+Additional amenities include a small refrigerator, en-suite shower, tea & coffee facilities, limited international channels, and internal phone. Some studios have private balconies, while others offer outside seating. Additional amenities include a hairdryer and iron (on request). Studios are located on the 2nd and 3rd floors.
+Amenities:
+* King sized bed
+* En-suite shower
+* Tea & Coffee facilities
+* Air Conditioning
+* Mini fridge
+* Internal phone
+* Hairdryer & Iron (on request)
+Keywords: king-size bed,  en-suite, international channels
+
+
+Room Category 02 max 50 words :
+SHL: One Bedroom Apartment
+Unit Code
+	Adults
+	Children (under 10)
+	T1
+	4
+	1
+	
+Karma Minoan's two, one bedroom apartment for four, ideal for up to 4 guests. They feature sofa beds, perfect for families. 
+Additional amenities include two shower rooms and a private balcony. Additional amenities include a mini fridge, an internal phone, limited international channels, air conditioning, free Wi-Fi, tea and coffee facilities, hairdryer, and iron upon request.
+
+
+Amenities:
+* 2 apartments (one bedroom)
+* Sofa beds
+* 2 walk-in shower(one shower room is en-suite)
+* Internal phone
+* Tea & Coffee facilities
+* Air Conditioning
+* Private balcony (2 rooms)
+* Mini fridge
+* Hairdryer & Iron (on request)
+Keywords: Karma Minoan, en-suite, international channels
+
+
+Room Category 03 max 50 words :
+SHL: Two Bedroom Apartment (same as above, I have updated)
+Unit Code
+	Adults
+	Children (under 10)
+	T2
+	6
+	2
+	
+Ideal for families and groups needing extra space, Karma Minoan’s eight two-bedroom units can accommodate up to five guests, with one unit sleeping up to six comfortably.
+Additional amenities include a sofa bed (in one unit), stone beds in all units, two private balconies, 2 walk-in shower rooms(one shower room is en-suite), small refrigerator, limited international channels, internal phone, tea and coffee facilities, hairdryer, and iron (on request). These rooms are located across all five floors of the resort.
+Amenities:
+* 8 apartments (2 bedroom)
+* Sofa beds (1 apartment)
+* Stone beds 
+* 2 walk-in shower(one shower room is en-suite)
+* Internal phone
+* Tea & Coffee facilities
+* 2 Private balconies
+* Mini fridge
+* Hairdryer & Iron (on request)
+Keywords:  Karma Minoan, en-suite, international channels
+Room Category 04 max 50 words :
+To be removed, this is not operational
+SHL: Studio for Three
+Unit Code : T0(3)
+
+
+This spacious unit can accommodate 2 adults and a child. It  features a double bed and a single mattress. Enjoy a shared terrace with stunning sea views. 
+Additional amenities include a telephone, air conditioning,  free Wi-Fi, walk-in shower, tea and coffee making facilities, and a mini fridge.
+Amenities:
+* Double bed & Single mattress
+* Shared terrace
+* Telephone
+* Wi-Fi
+* Walk in shower
+* Tea & Coffee making facilities
+* Mini fridge 
+
+
+Keywords: double bed, WiFi, mini fridge
+
+
+Room Category 05 max 50 words :
+SHL: One Bedroom for Two
+Unit Code
+	Adults
+	Children (under 10)
+	T1(2)
+	2
+	1
+	
+Karma Minoan’s four spacious unit for 2, features a double bed and a wooden sofa in the living room. Enjoy a shared terrace with stunning sea views on the 4th level. 
+Additional amenities include a mini fridge, an internal phone, limited international channels, air conditioning, free Wi-Fi, walk-in shower, tea and coffee making facilities, hairdryer, and iron upon request.
+Amenities:
+* Double bed 
+* Shared terrace
+* Internal phone
+* Wi-Fi
+* Walk in shower
+* Air Conditioning
+* Hairdryer & Iron (on request)
+* Tea & Coffee making facilities
+* Mini fridge 
+
+
+Keywords: Karma Minoan, double bed, WiFi, mini fridge
+
+
+
+
+
+
+Room Category 06 max 50 words :
+SHL: 2 Bedroom Sleeping Five
+Unit Code
+	Adults
+	Children (under 10)
+	T2(5)
+	5
+	1
+	
+This spacious unit can accommodate upto 5 guests. It features a King size bed, a Queen size bed and an extra stone bed for one. Enjoy a private terrace with stunning sea views. 
+Additional amenities include 2 bathrooms, a telephone, air conditioning,  free Wi-Fi, walk-in shower, tea and coffee making facilities, and a mini fridge.
+Amenities:
+* King size bed
+* Queen size bed
+* Stone bed 
+* Private Balcony
+* 2 bathrooms
+* Telephone
+* Wi-Fi
+* Walk in shower
+* Tea & Coffee making facilities
+* Mini fridge 
+
+
+Keywords: King size bed, Queen size bed, WiFi, mini fridge
+
+
+
+
+HL: Cuisine 
+Savor the flavors of the Mediterranean at Karma Minoan’s signature Amphora Restaurant.
+Keywords: Karma Minoan 
+
+
+(max 50 words) :
+SHL: Amphora Restaurant
+Amphora Restaurant is open daily from 08:00-11:00 for breakfast, 13:00-15:00 for lunch, and 18:00-21:15 for dinner, with Happy Hour from 17:00-18:00. The restaurant takes pride in using the freshest locally sourced produce, offering a blend of traditional Cretan cuisine and some Indian classics.
+-Lunch and Dinner Menu
+-Indian Menu
+-Wine List Menu
+-Mini Bar Menu
+-Flyer Lunch Menu
+-Spa, Yoga and Wellness Menu
+Keywords: Happy Hour, traditional Cretan cuisine, Indian classics
+
+
+HL: Facilities
+
+
+Karma Minoan offers a gateway to Mediterranean living, providing the space and freedom to do as much or as little as you desire. With its magical, peaceful atmosphere, the resort promises an unforgettable experience that will leave you eager to return.
+Keywords: Karma Minoan 
+Category 01 max 50 words :
+SHL: Pool
+Karma Minoan’s newly refurbished non-heated pool offers stunning views of Mirabello Bay, with easy access to the resort's restaurant and bar facilities.
+Keywords: Mirabello Bay, bar
+
+
+
+
+Category 02 max 50 words :
+SHL: Karma Spa
+
+
+Karma Minoan partners with Aegeo Wellness Spa to offer top-quality spa services, featuring customized treatments designed to relieve stress and invigorate your senses. Relax with the expertise of our experienced therapists and enjoy the natural benefits of Greek-inspired products. Treatments should be booked in advance, as therapists are available on call.
+
+
+-View Menu
+
+
+Cancellation policy, click here.
+Keywords:  Spa services, Karma Minoan
+
+
+
+
+Category 03 max 50 words :
+SHL: Amphora Restaurant
+Karma Minoan’s signature restaurant, like its namesake, offers an extensive selection of local and international wines, alongside traditional Cretan cuisine with an Asian twist, perfect for discerning food lovers.
+Keywords: Karma Minoan, International wines, Traditional Cretan Cuisine 
+
+
+Category 04 max 50 words :
+SHL: Yoga Deck 
+
+
+Karma Minoan’s sea-facing yoga deck provides the perfect setting for calming and strengthening your practice. Our on-site Yogi will guide you in balancing effort and relaxation. We offer complimentary weekly yoga classes. Please double check the yoga class schedule at reception and reserve your spot.
+
+
+-View Menu
+
+
+Cancellation policy, click here.
+Keywords: Karma Minoan, yoga classes
+
+
+Category 05 max 50 words :
+SHL: Sun Deck 
+Soak up the Mediterranean sun on Karma Minoan’s spacious sundeck, offering breathtaking views of Crete’s mountainous interior. It’s the perfect spot to relax and watch the world go by.
+Keywords: Karma Minoan
+
+
+
+
+Category 05 max 50 words :
+SHL: Hiking Trails 
+Crete’s hiking trails offer a journey through diverse landscapes and rich history. Explore dramatic gorges, coastal routes with stunning sea views, and secluded beaches ideal for a swim. Highlights include the famous Samaria Gorge, renowned for its beauty and challenging terrain, along with charming villages where you can enjoy local culture and cuisine.
+-View Hiking Trails 
+Keywords: Samaria Gorge
+HL: Location 
+
+
+Karma Minoan
+Ammoudara, Agios Nikolaos, Crete, 72100, 
+Greece
+
+
+
+
+Resort Direct Dial
++30 694 812 8830
+
+
+
+
+Whatsapp
++30 694 812 8830
+Email
+karmaminoan@karmagroup.com
+From its crafted furnishings to its exquisite cuisine, truly an authentic slice of Cretan life.
+- Book Now 
+
+
+
+
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorise Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------

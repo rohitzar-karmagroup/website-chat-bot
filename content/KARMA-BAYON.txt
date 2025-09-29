@@ -1,0 +1,291 @@
+﻿KARMA BAYON
+
+
+Meta Page Title:
+Karma Bayon, Siem Reap, Cambodia
+
+
+Meta Description:
+Karma Bayon, our Cambodia debut, is a tranquil oasis featuring a selection of beautifully appointed rooms, bar and restaurant, a Karma Spa and two pools. Nestled in the perfect spot within Siem Reap, the property is just a stone’s throw from all the best tourist attractions and bustling nightlife. The resort itself combines traditional Cambodian Khmer design with the usual touches of Karma contemporary luxury.
+Banner Headline (3/5 words):
+HL: Karma Bayon
+
+
+Siem Reap, Cambodia
+
+
+
+
+Web Intro (max 120 words):
+Karma Bayon, our debut in Cambodia, is a serene oasis offering beautifully appointed rooms, a bar and restaurant, Karma Spa, and two pools. Ideally located in Siem Reap, the resort is just minutes from top tourist attractions and vibrant nightlife. This luxury hotel in Siem Reap has traditional Cambodian Khmer design with Karma's signature contemporary luxury.
+Keywords: Cambodia, oasis, bar, traditional Cambodian Khmer design, Contemporary luxury, luxury hotel in Siem Reap
+App Intro (max 50 words):
+Karma Bayon, our first resort in Cambodia, located in Siem Reap, is just minutes from top attractions and nightlife, blending traditional Khmer design with Karma’s contemporary luxury. This Siem Reap hotel is a tranquil retreat with beautifully appointed rooms, a bar and restaurant, Karma Spa, and two pools. 
+Keywords: Cambodia, bar, traditional Khmer design, Contemporary luxury, Siem reap hotel
+
+
+
+
+HL: Accommodation 
+Discover the wonders of Siem Reap at Karma Bayon, nestled in private gardens. This peaceful retreat offers spacious, contemporary rooms and suites away from the city's bustle. Enjoy two outdoor pools, spa facilities, and dining at the in-house restaurant, along with drinks at the bar, exclusive for Karma Group Members.
+Keywords: contemporary rooms, outdoor pools, spa facilities, bar
+
+
+Room Category 01 max 50 words :
+SHL: Hotel Unit Double
+Unit Code
+	Adults
+	Children (under 10)
+	HU DBL
+	2
+	1
+	
+This spacious double room combines classic Khmer elegance with modern amenities and sophisticated furnishings featuring unique designs. The room includes a comfortable seating area with views of the verdant garden and pool.
+Amenities:
+* Comfy double bed
+* En-suite bathroom
+* Seating area
+* Air-conditioned
+* Flate screen TV with channel box
+* Spa bath
+Keywords: unique designs, pool, sophisticated furnishings,  classic Khmer
+
+
+Room Category 02 max 50 words :
+SHL: Hotel Unit Twin
+Unit Code
+	Adults
+	Children (under 10)
+	HU TWIN
+	2
+	1
+	
+This beautifully appointed twin room offers all the comfort and amenities for an unforgettable holiday. Guests can enjoy views of the lush tropical gardens, pool area, or the authentic rural Cambodian countryside, providing a peaceful and scenic retreat.
+Amenities:
+* Two extra-comfy single beds
+* En-suite bathroom
+* Seating area
+* Air-conditioned
+* Flate screen TV with channel box
+* Spa bath
+Keywords: twin room,  tropical gardens, pool area, rural Cambodian countryside.
+
+
+
+
+Room Category 03 max 50 words :
+SHL: Studio Double
+Unit Code
+	Adults
+	Children (under 10)
+	T0DBL
+	2
+	1
+	
+This luxury hotel in Siem Reap offers four spacious wooden villas—Angkor, Bakheng, Bayon, and Banteay Srei located in a separate building. These villas feature a living area, with Angkor and Bakheng on the ground floor and Bayon and Banteay Srei on the first floor. Each villa provides a peaceful, air-conditioned space with a terrace, sofa, outdoor dining area, and a private bathroom with a spa bath. Tea and coffee-making facilities and a mini fridge are included in all units.
+Amenities:
+* Terrace 
+* Outdoor dining area
+* Private bathroom
+* Spa bath
+* Tea and coffee-making facilities
+* Mini fridge
+* Air-conditioned
+* Flate screen TV with channel box
+Keywords: wooden villas, outdoor dining, spa bath, mini fridge, luxury hotel in Siem Reap
+
+
+
+
+Room Category 04 max 50 words :
+SHL: Studio Twin
+Unit Code
+	Adults
+	Children (under 10)
+	T0Tw
+	2
+	1
+	
+The Studio Twin rooms (45sqm, sleeps 2) feature twin beds that can be pushed together, with rooms 03, 04, 06, 07, 09, 12, 10, 11, 15, 16, and 17 on the first floor and others on the ground floor. Each air-conditioned room offers a terrace with garden views, a sofa, outdoor dining area, and a private bathroom with a spa bath, hairdryer, and free toiletries. Tea and coffee-making facilities and a mini fridge are provided in every unit.
+Amenities:
+* Terrace 
+* Twin beds
+* Sofa
+* Outdoor dining area
+* Private bathroom
+* Spa bath
+* Hairdryer
+* Free toiletries 
+* Tea and coffee-making facilities
+* Mini fridge
+* Air-conditioned
+* Flate screen TV with channel box
+Keywords: outdoor dining, spa bath, mini fridge
+
+
+Room Category 05 max 50 words :
+SHL: Studio For four
+Unit Code
+	Adults
+	Children (under 10)
+	T0X4
+	4
+	1
+	
+The Family Suite offers ample space for relaxation with a terrace, garden views, seating area, and outdoor dining. This air-conditioned suite includes one bedroom with a double bed, two single beds, and two bathrooms, perfect for up to four guests. The private bathroom features a bathtub and separate shower.
+
+Amenities:
+* Terrace 
+* 1 double bed and 2 single beds
+* Sofa
+* Outdoor dining area
+* 2 Private bathrooms
+* Bathtub
+* Hairdryers
+* Free toiletries 
+* Tea and coffee-making facilities
+* Mini fridge
+* Air-conditioned
+* Flate screen TV with channel box
+Keywords: family suite, studio, outdoor dining, spa bath, mini fridge
+
+
+Room Category 06 max 50 words :
+SHL: One Bedroom Combination Studio
+Unit Code
+	Adults
+	Children (under 10)
+	T1CS
+	4
+	1
+	
+The 1 Bedroom Combination studio rooms (sleep 4) are located in room 06 and 07 on the ground floor and 15 and 16 on the first floor. These rooms are paired with 2 Studio Twin units. Set in the quiet environment, each air-conditioned room offers a terrace with garden views, a sofa and an outdoor dinning area. The private bathroom includes a spa bath, hairdryer, and free toiletries. Tea and coffee-making facilities, along with a mini fridge, are provided in all units.
+Amenities:
+* Terrace 
+* 2 studio twin units
+* Sofa
+* Outdoor dining area
+* Private bathroom
+* Spa bath
+* Hairdryer
+* Free toiletries 
+* Tea and coffee-making facilities
+* Mini fridge
+* Air-conditioned
+* Flate screen TV with channel box
+Keywords: studio, outdoor dining, spa bath, mini fridge
+Room Category 07 max 50 words :
+SHL: One Bedroom Combination (T1C)
+Unit Code
+	Adults
+	Children (under 10)
+	T1C
+	4
+	1
+	
+The 1 Bedroom Combination Hotel Unit rooms (sleeps 4) are located in rooms 828 and 829, rooms 830 and 831 on the ground floor. These rooms are paired with 2 Hotel Unit Twin with an inter connecting door. Set in a quiet environment, each air-conditioned room offers a terrace with garden and pool views. The private bathroom includes a spa bath, hairdryer, and free toiletries. Tea and coffee-making facilities, along with a mini fridge, are provided in all units
+Amenities:
+* Terrace
+* Outdoor dining
+* Private bathroom
+* Spa bath
+* Seating area
+* Air-conditioned
+* Double bed
+* 2 hotel twin units
+* Two bathrooms
+* Flate screen TV with channel box
+Keywords: family, bathtub, garden view
+
+
+
+
+
+
+HL: Cuisine 
+Indulge in traditional Cambodian Khmer cuisine alongside international favorites. Cambodian dishes offer a delightful fusion of bold flavours and fresh ingredients, such as 'amok trey', a fragrant fish curry steamed in banana leaves, and 'nom banh chok', a breakfast noodle dish topped with vibrant green curry sauce.
+Keywords: traditional Cambodian Khmer cuisine, Cambodian dishes, amok trey, nom banh chok
+(max 50 words) :
+SHL: Restaurant & Bar 
+Karma Bayon’s onsite restaurant offers al-fresco dining with views of the beautiful resort grounds. Enjoy breakfast, lunch, and dinner surrounded by lush trees, or opt for the comfort of the air-conditioned dining room.
+Keywords: al-fresco dining 
+
+
+
+
+
+
+HL: Facilities
+Set amidst lush tropical gardens, Karma Bayon offers a serene retreat for Members to enjoy swimming pools, relax at the world-class Karma Spa, sip cocktails at the bar, and indulge in exquisite regional and international dishes at the in-house restaurant.
+Keywords: Spa, cocktails, bar,  international dishes
+
+
+Category 01 max 50 words :
+SHL: Swimming Pool
+Set in our landscaped gardens and with poolside loungers, this is a perfect spot to relax and savour the moment.
+Keywords:  poolside lounger
+
+
+Category 02 max 50 words :
+SHL: Restaurant & Bar
+Nestled within our beautifully landscaped gardens, the restaurant and bar offer a perfect setting to unwind and enjoy delicious meals and refreshing drinks.
+
+
+Category 03 max 50 words :
+SHL: Car Parking
+Conveniently located within the property, our car parking area provides a secure and accessible space to park and enjoy your stay.
+
+
+
+
+Category 04 max 50 words :
+SHL: Karma Spa
+Karma Spa offers a peaceful retreat where you can unwind and indulge in rejuvenating treatments designed to soothe both body and mind.
+-View Spa Menu
+
+
+HL: Location 
+Karma Bayon
+Bakheng Road, Svay Dangkum Village, Siem Reap, Cambodia
+
+
+Resort Direct Dial
++855 868 27 999
+
+
+Whatsapp
++855 868 27 999
+Email
+rm@karmabayon.com
+
+
+
+
+A gateway to the awe-inspiring beauty of the region, breathtaking landscapes, and unforgettable experiences.
+- Book Now 
+
+
+
+
+
+
+HL: Get in touch 
+
+
+Our award-winning Karma concierge is at your service. 
+
+
+First Name -
+Last Name -
+Member ID -
+Mobile Number -
+Email ID -
+Country of Residence -
+Reason for Enquiry -
+Your Message -
+- I agree to authorize Karma Club to process my data and to contact me in compliance with the Karma Group Privacy Policy.
+
+
+
+
+—----------------------------------------
